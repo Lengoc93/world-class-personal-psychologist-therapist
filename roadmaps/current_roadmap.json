@@ -1,0 +1,261 @@
+{
+  "version": "1.0",
+  "status": "active",
+  "created_date": "2026-02-15",
+  "last_updated": "2026-02-15",
+  "note": "Roadmap populated from session data through Feb 15, 2026. Based on Herman's Trauma Recovery Model (3 stages) and comprehensive session assessments.",
+
+  "instructions": {
+    "review": "Review and update using /view-roadmap command monthly",
+    "updates": "Roadmap evolves as healing progresses and priorities change"
+  },
+
+  "client_vision": {
+    "6_month_vision": "Complete Stage 2 healing layers sustainably. Build foundation for Stage 3 reconnection. Learn to rest without guilt. Develop intrinsic self-worth independent of productivity. Maintain healthy family boundaries. Thrive without ba - best response to abuse is living well.",
+    "core_values": [
+      "Truth over comfort (em chỉ tôn trọng sự thật)",
+      "Self-understanding (em cần để hiểu bản thân em)",
+      "Authenticity over performance",
+      "Freedom and autonomy",
+      "Compassion without self-sacrifice",
+      "Sustainable growth (not mẹ's impossible pace)"
+    ],
+    "what_healing_looks_like": "Trauma integrated into life narrative without being defined by it. Able to rest without anxiety. Able to form and maintain secure attachments. Reconnected with authentic self. Family boundaries clear and maintained. Chosen family and support network built. Living on own terms."
+  },
+
+  "overall_journey": {
+    "total_progress": "~30% complete",
+    "hardest_work_done": "Ba mẹ foundation (unmasking, boundary-setting) = DONE",
+    "remaining": "Hills, not mountains. With rest, sustainable."
+  },
+
+  "stage_assessment": {
+    "stage_1_safety": {
+      "status": "COMPLETE",
+      "evidence": [
+        "Own apartment in Saigon",
+        "Financial autonomy and stability",
+        "Self-care practices established",
+        "Support system identified (Hiếu)",
+        "Family boundaries established (ba, mẹ, Quang = no/low contact)"
+      ]
+    },
+
+    "stage_2_remembrance_mourning": {
+      "status": "IN PROGRESS - ~45% complete",
+      "layers": {
+        "ba_me_unmasking": {
+          "progress": "100% COMPLETE",
+          "completed_date": "2026-02-14",
+          "description": "Vạch mặt nạ ba mẹ - unmasked both parents' roles. Ba = abuser, mẹ = victim who failed to protect. 8-year question answered. Giải thoát mộng mị (freed from illusion)."
+        },
+        "vuong_mourning": {
+          "progress": "20% COMPLETE",
+          "layer_1_completed": "2026-02-03",
+          "remaining": [
+            "Layer 2: Honor survival function - what did Vương-sensation give during divorce battle?",
+            "Layer 3: Rage work (Tân, self, mẹ - safe expression)",
+            "Layer 4: Goodbye to version who needed him",
+            "Layer 5: Unfrozen self",
+            "Final ritual"
+          ]
+        },
+        "tan_grief": {
+          "progress": "50% COMPLETE",
+          "done": "Understanding complete - 9 years was love with wounds, not failure. Divorce = result of unhealed attachment trauma. 10 mechanisms of Vương attachment mapped.",
+          "remaining": "Emotional processing incomplete. Grief for 1.5-year battle. Safe rage expression."
+        },
+        "ha_boss": {
+          "progress": "0% NOT STARTED",
+          "note": "Will be addressed after higher-priority layers"
+        },
+        "childhood_me_programming": {
+          "progress": "70% COMPLETE",
+          "done": [
+            "Abuse validated (not false memories) - Dec 27, 2025",
+            "Mother boundary clarity ('mẹ chỉ là mẹ sinh học') - Dec 27, 2025",
+            "Core wound: guilt = fear of consequences (traumatic bonding) - Dec 28, 2025",
+            "Mother's final betrayal processed (denial, zero curiosity) - Dec 28, 2025",
+            "Productivity anxiety identified + intervention begun - Feb 15, 2026",
+            "Three-category confusion named (rest vs work vs maintenance) - Feb 15, 2026"
+          ],
+          "remaining": [
+            "Letter to child Ngọc (pending since Dec 27, 2025)",
+            "Grief ritual for 'mother who should have existed'",
+            "Body reclamation (sexuality, autonomy)",
+            "Specific incident processing"
+          ]
+        },
+        "intergenerational": {
+          "progress": "10% AWARENESS ONLY",
+          "done": "Recognized pattern: grandmother → mother → client. Distinguished self from ancestors (awareness, therapy, accountability). Reframed ending cycle through healing, not bloodline extinction.",
+          "remaining": "Deeper processing of intergenerational patterns. Decision about children from healed place."
+        }
+      }
+    },
+
+    "stage_3_reconnection": {
+      "status": "BEGINNING - ~15% complete",
+      "progress": [
+        "Family map updated and clarified (Feb 15, 2026)",
+        "Hiếu connection strengthened (confirmed ally)",
+        "Authentic interests begun (learning for joy, system-building)",
+        "Healthy boundary-setting demonstrated (Quang conversation)"
+      ],
+      "not_started": [
+        "Body/sexuality reclamation (after Vương layers complete)",
+        "Meaningful work redefinition on own terms",
+        "Healthy romantic relationship (when ready)",
+        "Trauma integration (12-18 months out)",
+        "Chosen family building"
+      ]
+    }
+  },
+
+  "therapeutic_priorities": {
+    "immediate": [
+      "Productivity anxiety homework: track categories, schedule rest, nightly 'enough' statement, letter to mẹ's voice",
+      "Monitor burnout risk (rest deficit + mẹ's voice driving constant activity)",
+      "Complete letter to child Ngọc"
+    ],
+    "short_term": [
+      "Continue Vương mourning layers 2-5 (when ready)",
+      "Grief ritual for 'mother who should have existed'",
+      "Build sustainable rest/work/maintenance balance",
+      "Tân emotional processing completion"
+    ],
+    "long_term": [
+      "Complete all Stage 2 layers",
+      "Build Stage 3 life sustainably",
+      "Body/sexuality reclamation",
+      "Healthy romantic relationship (when ready)",
+      "Hà (Boss) trauma processing",
+      "Intergenerational trauma deeper work",
+      "Decision about children from healed place"
+    ]
+  },
+
+  "goals": [
+    {
+      "id": "G1",
+      "goal": "Learn to rest without guilt",
+      "category": "Stage 2 - Childhood Layer",
+      "priority": "CRITICAL",
+      "status": "in_progress",
+      "started": "2026-02-15",
+      "rationale": "Mẹ's 'never rest' programming threatens sustainability of ALL other healing. Without rest, burnout inevitable.",
+      "success_criteria": [
+        "Can distinguish rest/work/maintenance categories",
+        "Schedules and takes rest blocks without anxiety",
+        "Uses own definition of 'enough' (not mẹ's)",
+        "Recognizes mẹ's voice as internalized critic (not truth)"
+      ]
+    },
+    {
+      "id": "G2",
+      "goal": "Complete Vương mourning (Layers 2-5)",
+      "category": "Stage 2 - Vương Layer",
+      "priority": "HIGH",
+      "status": "pending",
+      "next_step": "Layer 2: Honor survival function",
+      "rationale": "Vương attachment = survival mechanism during divorce battle. Must honor what it gave, then release."
+    },
+    {
+      "id": "G3",
+      "goal": "Complete letter to child Ngọc",
+      "category": "Stage 2 - Childhood Layer",
+      "priority": "HIGH",
+      "status": "pending",
+      "assigned_since": "2025-12-27",
+      "rationale": "Internal reparenting exercise. High impact, relatively accessible. Completes childhood trauma layer."
+    },
+    {
+      "id": "G4",
+      "goal": "Maintain family boundaries",
+      "category": "Stage 3 - Reconnection",
+      "priority": "HIGH",
+      "status": "in_progress",
+      "started": "2026-02-15",
+      "current_state": "Ba=NO CONTACT, Mẹ=NO CONTACT, Quang=LOW/NO CONTACT, Hiếu=MAINTAIN CONNECTION",
+      "rationale": "Family map clarified. Boundaries protect healing space."
+    },
+    {
+      "id": "G5",
+      "goal": "Develop intrinsic self-worth",
+      "category": "Stage 2/3 - Core Identity",
+      "priority": "MEDIUM",
+      "status": "in_progress",
+      "rationale": "Achievement-striving (17/20) = survival strategy. Productivity anxiety = manifestation. Must build worth independent of output."
+    },
+    {
+      "id": "G6",
+      "goal": "Complete Tân emotional processing",
+      "category": "Stage 2 - Tân Layer",
+      "priority": "MEDIUM",
+      "status": "in_progress",
+      "current_state": "Understanding done (50%), emotional processing incomplete",
+      "rationale": "Grief for 1.5-year battle, safe rage expression, sexual rewiring needed."
+    }
+  ],
+
+  "milestones_achieved": [
+    {
+      "date": "2025-12-27",
+      "milestone": "Self-validation of abuse confirmed (not false memories)",
+      "significance": "Foundation for all other healing"
+    },
+    {
+      "date": "2025-12-27",
+      "milestone": "Reframing 9 years with Tân: love with wounds, not failure",
+      "significance": "Released self-blame. Validated capacity for love."
+    },
+    {
+      "date": "2025-12-27",
+      "milestone": "Mother boundary clarity: 'Mẹ chỉ là mẹ sinh học của con thôi'",
+      "significance": "Freed from myth that must maintain close relationship with abusive mother"
+    },
+    {
+      "date": "2025-12-28",
+      "milestone": "Somatic decision-making: chose Saigon safety over family visit",
+      "significance": "First major instance of choosing safety over obligation"
+    },
+    {
+      "date": "2025-12-28",
+      "milestone": "Core wound revealed: guilt toward mother = fear of consequences",
+      "significance": "Exposed root of people-pleasing pattern"
+    },
+    {
+      "date": "2025-12-28",
+      "milestone": "Vương attachment fully mapped (10 mechanisms)",
+      "significance": "Complete recontextualization: survival mechanism, not love"
+    },
+    {
+      "date": "2026-02-03",
+      "milestone": "Vương mourning Layer 1 completed",
+      "significance": "First layer of grief work for Vương attachment"
+    },
+    {
+      "date": "2026-02-14",
+      "milestone": "Vạch mặt nạ ba mẹ completed (unmasking parents)",
+      "significance": "Ba identified as abuser, mẹ as failed protector. 8-year question answered. Giải thoát mộng mị."
+    },
+    {
+      "date": "2026-02-15",
+      "milestone": "Productivity anxiety wound independently identified",
+      "significance": "Client traced symptom to mẹ's programming. Three-category confusion named. Threatens healing sustainability - intervention critical."
+    },
+    {
+      "date": "2026-02-15",
+      "milestone": "Biological determinism rejected",
+      "significance": "Ba's abuse = moral choice, not biology. Client maintained accountability framework."
+    },
+    {
+      "date": "2026-02-15",
+      "milestone": "Strategic family disclosure: Quang tested (declined), Hiếu confirmed (ally)",
+      "significance": "Family map fully clarified. Client has one safe member, clarity about all others, monitoring system for mẹ."
+    }
+  ],
+
+  "roadmap_reviews": [],
+  "next_review_date": "2026-03-15"
+}

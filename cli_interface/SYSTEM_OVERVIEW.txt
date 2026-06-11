@@ -1,0 +1,303 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                  🌸 WORLD-CLASS AI THERAPIST SYSTEM 🌸                       ║
+║                                                                              ║
+║                            Dr. Sarah Chen, Ph.D.                             ║
+║                  Specializing in Your Unique Journey                         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+SYSTEM COMPLETE & READY TO USE
+===============================================================================
+
+✅ Profile Management System
+   • Personality assessment integration
+   • Cultural context & preferences
+   • Therapy goals tracking
+
+✅ Diary Context Integration
+   • One-time historical diary loading
+   • Pattern & theme extraction
+   • Ongoing diary through daily sessions
+
+✅ Daily Therapy Sessions
+   • Full conversational therapy (20-45 min)
+   • Quick wellness checks (5 min)
+   • Research-backed insights
+   • Clinical symptom identification
+
+✅ Developmental Roadmap System
+   • 3-6 month vision planning
+   • Goal setting & milestone tracking
+   • Monthly progress reviews
+   • Interactive adjustments
+
+✅ Real-Time Research Integration
+   • Latest studies (2024-2025)
+   • WebSearch for current evidence
+   • Credible sources (APA, NIMH, journals)
+   • Conversational citations
+
+✅ Mental Health Tracking
+   • Daily mood, energy, sleep, stress metrics
+   • Symptom identification & naming
+   • Pattern recognition across time
+   • Progress indicators
+
+===============================================================================
+AVAILABLE SLASH COMMANDS
+===============================================================================
+
+/therapy-session        → Full therapy conversation (20-45 min)
+/daily-check           → Quick wellness check (5 min)
+/create-roadmap        → Build 3-6 month development plan (30 min)
+/view-roadmap          → Review progress & adjust goals (10 min)
+/update-profile        → Update your psychological profile (10 min)
+/load-diary-context    → One-time historical diary load (15-30 min)
+
+===============================================================================
+QUICK START
+===============================================================================
+
+STEP 1: Fill Your Profile
+   → Open: profile/personality_assessment.json
+   → Fill in: personality tests, cultural context, goals, stressors
+   → Save
+
+STEP 2: (Optional) Load Historical Diaries
+   → Place files in: diary_context/historical/
+   → Run: /load-diary-context
+
+STEP 3: Start First Session
+   → Type: /therapy-session
+   → Dr. Chen will guide you from there
+
+STEP 4: Create Roadmap (after 1-2 sessions)
+   → Type: /create-roadmap
+   → Set your 3-6 month vision
+
+===============================================================================
+FILE STRUCTURE
+===============================================================================
+
+📁 world class personal psychologist therapist/
+│
+├── START_HERE.md              ← BEGIN HERE!
+├── QUICK_REFERENCE.md         ← Command cheat sheet
+├── GETTING_STARTED.md         ← Detailed setup guide
+├── COMMANDS_REFERENCE.md      ← All commands explained
+├── README.md                  ← System overview
+├── SYSTEM_OVERVIEW.txt        ← This file
+│
+├── profile/                   ← YOUR PROFILE (FILL THIS FIRST!)
+│   ├── personality_assessment.json
+│   └── preferences.json
+│
+├── diary_context/             ← DIARY INTEGRATION
+│   ├── historical/           ← Put old diaries here
+│   ├── daily/                ← Daily sessions auto-save here
+│   └── diary_context_summary.json
+│
+├── sessions/                  ← ALL THERAPY SESSIONS
+│   └── YYYY-MM/
+│       ├── session_YYYY-MM-DD.json
+│       └── daily_checks.json
+│
+├── roadmaps/                  ← DEVELOPMENT PLANS
+│   └── current_roadmap.json
+│
+├── research_base/             ← RESEARCH GUIDES
+│   ├── search_templates.json
+│   ├── symptom_reference.json
+│   └── research_database.json
+│
+└── .claude/commands/          ← SLASH COMMANDS
+    ├── therapy-session.md
+    ├── daily-check.md
+    ├── create-roadmap.md
+    ├── view-roadmap.md
+    ├── update-profile.md
+    └── load-diary-context.md
+
+===============================================================================
+WHAT MAKES THIS WORLD-CLASS
+===============================================================================
+
+✓ BESPOKE TO YOU
+  30-year-old Asian female, recently divorced
+  Cultural competence, identity development focus
+
+✓ RESEARCH-CURRENT
+  Real-time web search for 2024-2025 studies
+  Not static database - always current
+
+✓ CLINIC-GRADE
+  Clinical symptom identification
+  Evidence-based interventions (CBT, ACT, DBT)
+  Professional assessment & tracking
+
+✓ CULTURALLY-COMPETENT
+  Asian cultural contexts (collectivism, face, shame)
+  Integration of cultural values & personal growth
+  Relational-cultural awareness
+
+✓ DEVELOPMENTAL FOCUS
+  3-6 month interactive roadmaps
+  Identity development support
+  Post-traumatic growth orientation
+  Meaning-making & purpose
+
+✓ DEEPLY CONTEXTUAL
+  Historical diary integration
+  Session-to-session continuity
+  Pattern recognition across time
+  Personalized interventions
+
+✓ PROFESSIONALLY WARM
+  Dr. Sarah Chen: 30 years experience
+  Empathic, wise, gentle, honest
+  Specialized in your exact needs
+
+===============================================================================
+DR. SARAH CHEN - YOUR THERAPIST
+===============================================================================
+
+Experience:        30+ years (virtual)
+Gender:            Female
+Approach:          Integrative, evidence-based, culturally-sensitive
+
+Specializations:
+  • Life transitions & divorce recovery
+  • Identity development in cultural contexts
+  • Women's mental health
+  • Asian American psychology
+  • Trauma-informed care
+  • Existential & meaning-making work
+
+Therapeutic Modalities:
+  • Cognitive Behavioral Therapy (CBT)
+  • Acceptance & Commitment Therapy (ACT)
+  • Dialectical Behavior Therapy (DBT)
+  • Psychodynamic approaches
+  • Narrative therapy
+  • Self-compassion practices
+  • Relational-cultural theory
+
+Communication Style:
+  • Warm but professional
+  • Gentle but honest
+  • Curious & non-judgmental
+  • Research-informed
+  • Culturally attuned
+  • Avoids clichés & platitudes
+
+===============================================================================
+OUTPUT YOU'LL RECEIVE
+===============================================================================
+
+1. IN-LINE EXPLANATIONS
+   • Latest psychological research with citations
+   • Clinical frameworks & theories explained
+   • Evidence-based strategies
+   • Conversational, not academic
+
+2. DAILY MENTAL HEALTH CHECK
+   • Mood, energy, sleep, stress ratings
+   • Symptom identification & clinical naming
+   • Pattern recognition
+   • Progress tracking
+
+3. SYMPTOM CALL NAMES
+   • Clinical terminology education
+   • "What you're describing is called..."
+   • Normalization through naming
+   • Understanding your experience
+
+4. PSYCHOLOGICAL MENTORSHIP
+   • Light in your mental development
+   • 3-6 month roadmap with milestones
+   • Interactive goal refinement
+   • Growth trajectory guidance
+
+===============================================================================
+WHAT YOU INPUT
+===============================================================================
+
+1. PERSONALITY ASSESSMENT (One-time, updateable)
+   → File: profile/personality_assessment.json
+   → Content: Test results, cultural context, goals, stressors
+
+2. HISTORICAL DIARIES (One-time optional)
+   → Location: diary_context/historical/
+   → Format: .txt, .md, .docx, .pdf, or .zip
+   → Purpose: Deep contextual understanding
+
+3. DAILY CONVERSATIONS
+   → Command: /therapy-session or /daily-check
+   → Content: Your thoughts, feelings, experiences, questions
+   → Flow: Probing questions → your responses → insights
+
+===============================================================================
+PRIVACY & SAFETY
+===============================================================================
+
+🔒 PRIVACY
+   • All data LOCAL on your computer
+   • No cloud uploads or external storage
+   • Web searches only for general research
+   • Never transmits your personal information
+
+⚠️ SAFETY - This is NOT for emergencies
+   • For crisis: Call 988 (Suicide & Crisis Lifeline)
+   • For immediate help: Text HOME to 741741
+   • For substance abuse: 1-800-662-4357 (SAMHSA)
+
+⚠️ This system is supportive therapy, NOT:
+   • Emergency mental health services
+   • Psychiatric medication management
+   • Crisis intervention
+   • Replacement for human professional care
+
+===============================================================================
+RECOMMENDED ROUTINE
+===============================================================================
+
+DAILY:
+  • /therapy-session (20-45 min) - for processing & journaling
+     OR
+  • /daily-check (5 min) - for quick wellness tracking
+
+WEEKLY:
+  • Review your session notes
+  • Notice patterns across the week
+
+MONTHLY:
+  • /view-roadmap (10 min) - progress review
+  • /update-profile (if anything changed)
+
+QUARTERLY (3-6 months):
+  • /create-roadmap - new developmental plan
+  • Celebrate growth & set new vision
+
+===============================================================================
+NEXT STEPS - START NOW
+===============================================================================
+
+□ 1. Fill out profile/personality_assessment.json
+
+□ 2. (Optional) Place historical diaries in diary_context/historical/
+     Then run: /load-diary-context
+
+□ 3. Type: /therapy-session
+
+□ 4. Let Dr. Chen guide you from there
+
+===============================================================================
+
+Your world-class, bespoke psychological therapist is ready.
+
+Type /therapy-session to begin your healing journey.
+
+🌸
+
+===============================================================================

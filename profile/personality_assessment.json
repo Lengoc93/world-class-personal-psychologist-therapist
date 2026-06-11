@@ -1,0 +1,784 @@
+{
+  "profile_version": "2.4",
+  "last_updated": "2026-03-10",
+  "last_therapy_session": "2026-02-15",
+  "basic_info": {
+    "age": 33,
+    "gender": "female",
+    "ethnicity": "Asian",
+    "life_stage": "Recently divorced",
+    "cultural_context": {
+      "primary_culture": "Vietnamese, bachelor studying RMIT University Vietnam Campus, where learned critical and reflective thinking. 2 years of living and working in Singapore, where learned to be more independent and self-sufficient.",
+      "cultural_considerations": [
+        "Scandinavian culture",
+        "Australian culture",
+        "Chinese culture"
+      ],
+      "family_dynamics": "Single, no children, living alone in Saigon. 3 elder brothers with 10+ age gap. Ba (father) = identified abuser of mẹ and children, NO CONTACT. Mẹ (mother) = victim of ba's abuse, failed to protect client, NO CONTACT. Quang (eldest brother, most beaten by ba) = enabler, chose avoidance/suppression, protects ba, LOW/NO CONTACT (tested Feb 15, 2026 - declined truth, chose denial). Hiếu (brother) = confirmed ally, acknowledges family truth, monitors mẹ's safety, MAINTAIN CONNECTION. Family truth ('vạch mặt nạ ba mẹ') completed Feb 14, 2026. Selective family disclosure to brothers completed Feb 15, 2026."
+    }
+  },
+  "clinical_diagnosis": {
+    "date_assessed": "2025-12-27",
+    "assessing_clinician": "Dr. Sarah Chen",
+    "primary_diagnosis": {
+      "condition": "Complex PTSD (C-PTSD)",
+      "icd_11_criteria": "All 6 criteria met",
+      "evidence": [
+        "Chronic abuse from caregiver (physical and emotional)",
+        "Impact on self-concept",
+        "Difficulty in relationships",
+        "Emotional dysregulation",
+        "Negative self-perception",
+        "Relational difficulties"
+      ],
+      "source": "Chronic childhood emotional and physical abuse from mother, preschool age through present (33 years old)"
+    },
+    "secondary_diagnoses": [
+      "Disorganized Attachment Pattern (Fearful-Avoidant type)",
+      "Betrayal Trauma with active fawn response",
+      "Ambiguous Loss/Grief - grieving for mother who never existed"
+    ],
+    "trauma_recovery_stage": {
+      "current_stage": "Stage 2: Remembrance & Mourning (Herman's Trauma Recovery Model)",
+      "stage_1_safety": "COMPLETE - own apartment, autonomous, financial stability, self-care, support system (Hiếu)",
+      "stage_2_processing": {
+        "status": "In progress - ~52% complete (as of Mar 10, 2026)",
+        "layers": {
+          "ba_me": "100% COMPLETE - vạch mặt nạ ba mẹ completed Feb 14, 2026, giải thoát mộng mị",
+          "vuong": "20% COMPLETE - Layer 1 done Feb 3, 2026; Layers 2-5 + ritual pending",
+          "tan": "55% COMPLETE — body alarm override moments identified Mar 3; journaling homework deferred to Wed Mar 11 (backup slot)",
+          "ha_boss": "0% NOT STARTED",
+          "childhood_me_programming": "82% COMPLETE — both letters (child Ngọc + mother) completed Mar 7; burn ritual done; rest behavioral integration confirmed; mẹ medical research Mar 10 flagged for parentification check",
+          "intergenerational": "20% — alarm system reframed as inherited asset (Mar 3); family immersion test passed without activation (Mar 9-10)"
+        }
+      },
+      "stage_3_reconnection": {
+        "status": "Building - ~22% complete (as of Mar 10, 2026)",
+        "progress": [
+          "Family map updated (Quang = low/no contact, Hiếu = ally confirmed)",
+          "Healthy relationships developing (Hiếu connection strengthened)",
+          "Authentic interests begun (learning for joy, system-building)",
+          "Body/sexuality reclamation not started (after Vương complete)",
+          "Meaningful work exploration ongoing",
+          "Trauma integration not started (12-18 months out)",
+          "IWD sovereignty marker (Mar 8): joy without external validation confirmed",
+          "Lien reconnection (Mar 9): no-mask authentic connection outside core family circle emerging",
+          "Nose ring planned (Sat Mar 14): body sovereignty celebration — Ngọc on Ngọc's terms",
+          "Hometown integration: family warmth accessible without re-entanglement"
+        ]
+      }
+    },
+    "clinical_presentation": "High-functioning trauma survivor with exceptional self-awareness and analytical ability. Achievement-striving (17/20 on Big Five) identified as learned survival strategy rather than natural trait. Demonstrates overachievement as coping mechanism while experiencing relational difficulties, emotional dysregulation, and somatic symptoms."
+  },
+  "childhood_trauma_history": {
+    "assessment_completed": "2024-2025",
+    "validation_status": "CONFIRMED - NOT false memories. Evidence: mother recounts abuse as 'war stories', somatic memories present, pattern consistency (mother still harsh with grandchildren), detailed timeline with sensory/emotional details",
+    "home_environment": {
+      "overall_description": "Home felt like a prison ('nhà là ngục tù'). Wanted to leave but only with mother's approval to avoid hurting her despite her causing pain. Unacceptable environment with thirst for care and transactional relationships.",
+      "safety_paradox": "Home felt safest when sick (received devoted care), but also where most obligations and duties were demanded. Had to live a lifestyle that wasn't natural/authentic self.",
+      "emotional_tone": "Chaotic, controlling, conditional love, lack of physical affection, high criticism, unpredictable maternal reactions",
+      "physical_abuse_confirmed": [
+        "Beaten (đánh)",
+        "Locked in storage room (nhốt nhà kho)",
+        "Forced feeding (ép ăn)",
+        "Rough physical handling during bathing and hair tying (tác động lực mạnh)",
+        "Mother recounts these incidents as 'chiến tích' (war stories/trophies)"
+      ],
+      "emotional_abuse_confirmed": [
+        "Labeled 'đồ phản bội' (traitor) at age 4 for admiring Marie Curie instead of mother",
+        "Systematic denial of client's successes",
+        "Control of every aspect of life",
+        "Parentification - forced independence from young age ('không được dựa vào ai kể cả mẹ')",
+        "Timeline: Preschool (mẫu giáo) → present (age 33), pattern unchanged"
+      ]
+    },
+    "lack_of_affection_witnessed": {
+      "parental_affection": "Never or rarely saw siblings being hugged. Never saw parents show affection to each other. Most affection witnessed was father kissing mother's cheek, but mother seemed embarrassed and would refuse.",
+      "impact": "No model for healthy physical affection or emotional intimacy in relationships. Contributes to confusion about love and connection."
+    },
+    "positive_childhood_memories": {
+      "themes": "Effort spending, Gifts, Quality time in Exploration with Care",
+      "specific_memories": [
+        "Mother made handmade items (basket from bottle caps, handmade blanket) - felt special and unique",
+        "Mother created special foods because child was picky eater - felt cared for",
+        "Mother bought many toys for role play - encouraged imagination",
+        "Father traveled abroad and brought gifts - felt exciting and free ('đi nước ngoài rất oách rất tự do')",
+        "Father gently woke her in morning without forcing - felt respected",
+        "Father played actively/energetically ('đùng đình') - felt joyful",
+        "Excelled at English, first time being good at something - felt capable and could explore new information"
+      ],
+      "analysis": "Love was shown through gifts, problem-solving, and exploration, but rarely through verbal affirmation or physical affection"
+    },
+    "traumatic_experiences": {
+      "core_themes": [
+        "Love as Sacrifice/Losing",
+        "Love as Transactional",
+        "Love as Toxic Independence",
+        "Love as Betrayal",
+        "Love as Ownership"
+      ],
+      "specific_incidents": [
+        {
+          "incident": "Admiring Marie Curie",
+          "description": "Told mother she admired Marie Curie most in the world. Mother yelled and asked why she didn't admire mother instead of someone else.",
+          "impact": "Admiration of anyone else = betrayal of mother who gave everything. Learned that expressing own interests/values could be perceived as rejection of mother.",
+          "turning_point": "Realized admiring Marie Curie was seen as betrayal of mother"
+        },
+        {
+          "incident": "Toxic independence message",
+          "description": "Mother said must be very independent, example: 'If father dies, mother must be confident to raise children alone.'",
+          "impact": "Independence framed as preparation for loss/abandonment. Love and connection seen as temporary, fragile."
+        },
+        {
+          "incident": "Transactional relationships",
+          "description": "Mother said to suspect anyone who is nice, wonder what they want in return ('ai tốt với mình đều phải nghi ngờ liệu họ có cần mình làm lại cho cái gì ko').",
+          "impact": "All kindness viewed with suspicion. Relationships seen as transactional exchanges rather than genuine connection."
+        },
+        {
+          "incident": "Society debt burden",
+          "description": "Mother said every person born is a debtor to society, has obligation to work hard to repay society ('mỗi con người sinh ra đều là con nợ của xã hội, có nghĩa vụ phải làm việc chăm chỉ để trả nợ cho xã hội').",
+          "impact": "Existence itself = burden and debt. Must work to justify being alive. Contributes to workaholic tendencies and difficulty with self-worth."
+        },
+        {
+          "incident": "Virginity as ownership",
+          "description": "Mother said must protect virginity or husband will look down on her. Mother would do everything to protect it. Wanted daughter to promise to protect it at all costs. 'It is just for my husband. It is my husband ownership.'",
+          "impact": "Body not own. Female sexuality as property to be transferred to husband. Purity culture trauma. Shame around sexuality and autonomy.",
+          "severity": "Critical - impacts relationship with body, sexuality, and autonomy"
+        },
+        {
+          "incident": "Sexual desire as destruction",
+          "description": "Sexual desire is harmful to the body, like plants that wither and die after reproduction. 'You will be destroyed if you make wrong decision on who you fall in love with.'",
+          "impact": "Love and sexuality associated with destruction, death, loss of self. Terror of making 'wrong choice' in relationships."
+        },
+        {
+          "incident": "Math contradiction and rebellion",
+          "description": "Mother wanted daughter to be good at math but NOT too good because 'girls will lose if they pursue advanced math' ('con gái rồi sẽ thua nếu đi chuyên toán'). Daughter chose advanced math to prove mother wrong, even though truly loved English.",
+          "impact": "Chose path to rebel and prove mother wrong rather than follow authentic interests. Self-betrayal to prove a point. Later failed advanced math, switched to English, gave up math entirely but still secretly admires those good at math. Math became 'beautiful, difficult to touch, admirable' - unreachable ideal.",
+          "turning_point": "Realized was living for rebellion rather than authenticity"
+        }
+      ]
+    },
+    "emotional_state_as_child": {
+      "primary_emotions": [
+        "Confusion",
+        "Anger",
+        "Fear",
+        "Disgust",
+        "Hate",
+        "Sadness"
+      ],
+      "dominant_pattern": "Apprehension - anxiety or fear that something bad or unpleasant will happen",
+      "description": "Got caught for every single fault, every single activity, being asked to do everything rightly at every single point. This led to fear of doing every single thing. 'I think this describes me so well.'",
+      "emotional_analysis": {
+        "confusion": "Arose from lack of clarity in mother's expectations and inconsistency in her behavior. Linked to fear and surprise as couldn't understand why reactions were so extreme or unpredictable.",
+        "anger": "Direct response to constant criticism and being yelled at. Perceived injustice and frustration.",
+        "fear": "Unpredictability of mother's reactions instilled sense of fear. Felt threatened by yelling and criticism. Felt unsafe and anxious about potential repercussions.",
+        "disgust": "Toward the situation and way mother treated her. Behavior felt dehumanizing and belittling.",
+        "hate": "Stemmed from cumulative impact of feeling confused, angry, fearful, and sad over time. Powerful response to prolonged emotional pain.",
+        "sadness": "From emotional neglect and lack of support. Sense of loss regarding nurturing relationship that should have existed."
+      }
+    },
+    "coping_mechanisms_evolution": {
+      "childhood_pattern": "Fight back by arguing → tired → Ignore her words → Isolate, do things alone, stop talking → TV → Books → Learning → Hunting for Recognition/Awards",
+      "maladaptive_aspects": [
+        "Isolation and withdrawal",
+        "Seeking external validation through achievements",
+        "Avoidance rather than processing",
+        "Emotional shutdown"
+      ],
+      "healthy_pattern_developing": "Fight back → tired → Ignore words → Meditation → Reflection → Distinguish what to accept about self vs. what to change and why vs. personal beliefs → Accept self → Move on",
+      "current_status": "In transition from old patterns to healthier coping. Still learning to process rather than avoid."
+    },
+    "internal_working_models": {
+      "identified_session": "2025-12-27",
+      "attachment_classification": "Disorganized/Fearful-Avoidant - Caregiver was both source of safety AND source of fear, creating push-pull dynamic, hypervigilance, and tendency to sabotage intimacy",
+      "models": [
+        {
+          "model": "Love is conditional on performance",
+          "evidence": "Memorized material but still yelled at. Mother denied client's English language success."
+        },
+        {
+          "model": "Love means control",
+          "evidence": "Mother prevented every decision (studying math, going abroad, stopping English study)"
+        },
+        {
+          "model": "Independence = survival, Dependency = danger",
+          "evidence": "Mother said 'must be very independent, cannot depend on anyone including mother'"
+        },
+        {
+          "model": "Love is transactional",
+          "evidence": "Anyone nice to you, suspect what they want in return"
+        },
+        {
+          "model": "Body is not mine",
+          "evidence": "Virginity 'is my husband ownership'"
+        }
+      ]
+    },
+    "core_beliefs_formed": {
+      "unchangeable_core": "Pure essence of who I am - hard to change and don't want to change",
+      "changeable_derivatives": "Derivatives of mother's education - can be changed",
+      "internalized_harmful_messages": [
+        "My worth is transactional",
+        "Independence means preparation for abandonment",
+        "Kindness has ulterior motives",
+        "I exist as a debt to be repaid through work",
+        "My body is not mine - it belongs to future husband",
+        "Sexual desire will destroy me",
+        "Admiring others is betrayal",
+        "I must be perfect or face unpredictable rage",
+        "Expressing authentic self is dangerous"
+      ],
+      "protective_beliefs_developed": [
+        "Must be hypervigilant to avoid criticism",
+        "Must achieve to prove worth",
+        "Must be independent to survive",
+        "Must not trust others' kindness",
+        "Must control everything to feel safe"
+      ]
+    },
+    "current_impact_on_adult_life": {
+      "relationship_patterns": [
+        "Difficulty trusting genuine kindness - suspects transactional motives",
+        "Fear of ownership and loss of autonomy in intimate relationships",
+        "Confusion about healthy expressions of love",
+        "Seeking independence to point of toxic self-reliance",
+        "Perfectionism and fear of criticism in relationships",
+        "Difficulty with physical and emotional intimacy due to lack of modeling"
+      ],
+      "self_perception": [
+        "Worth tied to achievements and external validation",
+        "Body and sexuality associated with shame and danger",
+        "Existence as burden requiring justification through productivity",
+        "Authentic self vs. performing self conflict"
+      ],
+      "behavioral_patterns": [
+        "Workaholic tendencies (repaying 'debt to society')",
+        "Difficulty accepting help (independence = survival)",
+        "Hypervigilance to others' reactions",
+        "Tendency to choose paths of rebellion over authenticity",
+        "Secretly admiring things deemed 'too difficult' or 'not for her' (like math)"
+      ]
+    },
+    "healing_progress": {
+      "recognitions": [
+        "Identified difference between core self and mother's conditioning",
+        "Recognized harmful coping patterns",
+        "Developed strong self-care practices (10/10 physical and mental health)",
+        "Learning to name and process emotions rather than avoid",
+        "Vạch mặt nạ ba mẹ completed Feb 14, 2026 - unmasked both parents' roles",
+        "Ba identified as abuser of mẹ and children - NO CONTACT established",
+        "Mẹ identified as victim of ba who failed to protect client - NO CONTACT established",
+        "Productivity anxiety independently traced to mẹ's programming ('never allowed rest even when work finished') - Feb 15, 2026",
+        "Three-category confusion identified: cannot distinguish rest/recovery vs meaningful work vs maintenance",
+        "Biological determinism rejected - ba's abuse = moral choice, not biological inevitability",
+        "Strategic family disclosure executed flawlessly - tested Quang (declined) and Hiếu (confirmed ally)",
+        "Family map clarified: Quang = enabler, Hiếu = confirmed ally monitoring mẹ's safety",
+        "Demonstrated advanced boundary-setting in conversation with Quang",
+        "Letter to child Ngọc COMPLETED Mar 7 — child self recognized as making optimal collaborative choice, not defiant. Internal reparenting delivered.",
+        "Letter to the mother I needed COMPLETED and BURNED Mar 7 — wound architecture mapped and ritually released. Core grief named: never had an unconditional base. Now becoming own anchor.",
+        "Body alarm reframe confirmed (Mar 3): multi-generational abuse detection ACCURATE. Inherited sensitivity = asset. Self-silencing = wound.",
+        "Ramen sovereignty act (Mar 7): reclaimed mẹ-banned food. Body autonomy in small, powerful form.",
+        "IWD marker (Mar 8): felt happy and peaceful with no external validation. Joy sourced internally — sovereignty confirmed.",
+        "Hometown integration test (Mar 9-10): family immersion post-burn-ritual WITHOUT activation. Warmth and nostalgia accessible without re-entanglement.",
+        "87 sleep score under physical adversity (Mar 9): somatic regulation stronger than environmental disruption.",
+        "Lien reconnection (Mar 9): 2-hour no-mask authentic conversation with high school friend — earned secure capacity attracting genuine connection organically."
+      ],
+      "ongoing_work": [
+        "Separating mother's voice from own values (productivity anxiety = mẹ's voice)",
+        "Healing relationship with body and sexuality",
+        "Learning to trust others' kindness",
+        "Choosing authenticity over rebellion or compliance",
+        "Processing grief for childhood that wasn't",
+        "Developing healthy model of love and intimacy",
+        "Learning to rest without guilt (challenging mẹ's 'rest = lazy' programming)",
+        "Building sustainable rest/work/maintenance balance",
+        "Completing Vương mourning layers 2-5",
+        "Letter to child Ngọc (pending since Dec 27, 2025)"
+      ]
+    }
+  },
+  "personality_assessment": {
+    "assessment_type": "Big Five, MBTI (16Personalities), Enneagram, Locus of Control",
+    "assessment_date": "2025-10-05",
+    "results": {
+      "big_five": {
+        "openness": 85,
+        "conscientiousness": 78,
+        "extraversion": 82,
+        "agreeableness": 82,
+        "neuroticism": 68,
+        "facets": {
+          "neuroticism": {
+            "anxiety": 13,
+            "anger": 12,
+            "depression": 10,
+            "self_consciousness": 9,
+            "immoderation": 14,
+            "vulnerability": 10
+          },
+          "extraversion": {
+            "friendliness": 16,
+            "gregariousness": 10,
+            "assertiveness": 17,
+            "activity_level": 15,
+            "excitement_seeking": 11,
+            "cheerfulness": 13
+          },
+          "openness": {
+            "imagination": 14,
+            "artistic_interests": 12,
+            "emotionality": 13,
+            "adventurousness": 15,
+            "intellect": 16,
+            "liberalism": 15
+          },
+          "agreeableness": {
+            "trust": 13,
+            "morality": 14,
+            "altruism": 15,
+            "cooperation": 12,
+            "modesty": 13,
+            "sympathy": 15
+          },
+          "conscientiousness": {
+            "self_efficacy": 12,
+            "orderliness": 11,
+            "dutifulness": 13,
+            "achievement_striving": 17,
+            "self_discipline": 15,
+            "cautiousness": 10
+          }
+        }
+      },
+      "mbti_type": "ENFP-T (Campaigner)",
+      "mbti_traits": {
+        "energy": "59% Extraverted",
+        "mind": "66% Intuitive",
+        "nature": "52% Feeling",
+        "tactics": "60% Prospecting",
+        "identity": "56% Turbulent"
+      },
+      "enneagram": {
+        "type": "Type 7 - The Enthusiast",
+        "description": "Energetic, spontaneous, and optimistic. Driven by desire to avoid pain and discomfort, seeking pleasure, excitement, and variety. Forward-thinking, imaginative, natural problem-solver.",
+        "core_motivation": "Freedom, happiness, and fulfillment. Desire to avoid pain by focusing on positive experiences and opportunities for growth.",
+        "core_fear": "Being trapped in negative experiences or missing out on life's opportunities. Fear of boredom, restriction, and limitation."
+      },
+      "locus_of_control": {
+        "personal_development": {
+          "internal": 65,
+          "powerful_others": 32,
+          "chance": 35,
+          "primary": "Internal - believes personal growth and quality of life are own responsibility"
+        },
+        "social": {
+          "internal": 60,
+          "powerful_others": 30,
+          "chance": 35,
+          "primary": "Internal - takes responsibility for social life and relationships"
+        },
+        "professional": {
+          "internal": 55,
+          "powerful_others": 35,
+          "chance": 25,
+          "primary": "Internal - feels responsible for work outcomes and career"
+        }
+      },
+      "strengths": [
+        "Exploring new ideas and perspectives - curiosity and openness introduce fresh viewpoints",
+        "Genuine enthusiasm - sincere excitement easily motivates and engages others",
+        "Connecting with others - effortlessly builds relationships, bringing diverse groups together",
+        "Creative problem-solving - imaginative thinking discovers clever solutions",
+        "Flexible and adaptable approach - comfortable with new situations and unexpected changes",
+        "Inspiring communication - heartfelt and authentic expression resonates deeply",
+        "High openness to experience (85) - enjoys novelty, variety, change; curious, imaginative, creative",
+        "High agreeableness (82) - strong interest in others' needs and well-being; pleasant, sympathetic, cooperative",
+        "High conscientiousness (78) - sets clear goals and pursues with determination; reliable and hard-working",
+        "High extraversion (82) - sociable, outgoing, energetic, lively; prefers being around people",
+        "Achievement-striving (17/20) - strives hard to achieve excellence, strong sense of direction",
+        "Self-discipline (15/20) - ability to persist at difficult tasks until completed",
+        "Assertiveness (17/20) - speaks out, takes charge, directs activities of others",
+        "High intellect and adventurousness - loves to play with ideas, eager to try new activities and experiences",
+        "Altruistic and sympathetic - genuinely finds helping others rewarding, tenderhearted and compassionate",
+        "Strong sense of personal control - believes in ability to influence life outcomes and create own happiness",
+        "Resilient (77%) and confident (77%) - able to recover from setbacks and trust own abilities"
+      ],
+      "growth_areas": [
+        "Putting off routine tasks - everyday or repetitive assignments dampen enthusiasm and decrease productivity",
+        "Starting but not finishing - initiates many promising projects but struggles with consistent follow-through",
+        "Easily bored by structure - rigid rules or repetitive work feel restrictive",
+        "Skipping over practical details - in excitement over ideas, may overlook essential small steps",
+        "Overcommitting energy - eagerness leads to accepting too many tasks, becoming overwhelmed",
+        "Taking criticism personally - constructive feedback can feel discouraging even when kindly given",
+        "Low orderliness (11/20) - tends to be disorganized and scattered rather than well-organized",
+        "Low cautiousness (10/20) - acts on first thing that comes to mind without deliberating alternatives",
+        "High immoderation (14/20) - feels strong cravings and urges with difficulty resisting, oriented toward short-term pleasures",
+        "High anxiety (13/20) - despite low overall neuroticism, tends toward anxiety and feeling tense",
+        "Restless curiosity - desire to explore everything at once can prevent mastering practical skills",
+        "Disorganization in goals - challenging to structure clear objectives or stick to planning",
+        "Sensitive to setbacks - idealistic expectations increase disappointment when encountering obstacles",
+        "Avoiding necessary conflict - hesitates to confront uncomfortable issues",
+        "Impatient for progress - desires rapid improvement, leading to frustration when results aren't immediate",
+        "Struggling with consistency - sustaining long-term habits or routines feels difficult and draining",
+        "Fear of missing out (FOMO) - constant seeking of novelty and stimulation to avoid boredom",
+        "Commitment wobbles - settling into long-term routine can cause restlessness and fear of missing out"
+      ]
+    }
+  },
+  "life_assessment": {
+    "assessment_date": "2025-01-10",
+    "dimensions": {
+      "love_marital": {
+        "score": 0,
+        "target": 10,
+        "description": "Recently divorced. Looking forward to new partner but not actively seeking. Desires relationship where can be truly self, comfortable, free, secure, sharable, and supportive.",
+        "ideal_qualities": "Feeling loved and loving partner, being true self, comfort zone, mostly free, secured, sharable, supportive, mutual understanding with acknowledgment of different expectations"
+      },
+      "love_social": {
+        "score": 8,
+        "target": 10,
+        "description": "Strong team connections with supportive, win-win, learning and growing environment. Values trustworthy relationships where can ask for help and be honest. Some gaps with friends due to limited nurturing from both sides as everyone has priorities.",
+        "positive_connections": "Sharing ideas and getting initiatives from reflections (colleague Linh), coaching others and receiving feedback (Phúc), talking with interesting people about entrepreneurial ideas and diverse perspectives"
+      },
+      "love_self": {
+        "score": 9,
+        "target": 10,
+        "description": "High level of mindful self-care and self-prioritization. Strong self-understanding (80%) and trust in body-self (90%) to let it drive itself.",
+        "practices": "Mindful self-care, strong self-prioritization, deep self-understanding, trusting body's signals"
+      },
+      "love_family": {
+        "score": 0,
+        "target": 10,
+        "description": "Much clearer understanding and better connection compared to past, but still very challenging. Differentiated relationships with each family member.",
+        "specific_relationships": {
+          "hieu": "Confirmed ally (Feb 2026). Acknowledges family truth. Monitors mẹ's safety. Shared acknowledgment of abuse. MAINTAIN CONNECTION.",
+          "ba_father": "Identified as abuser of mẹ and children. NO CONTACT. Vạch mặt nạ completed Feb 14, 2026.",
+          "me_mother": "Victim of ba's abuse. Failed to protect client. NO CONTACT. Client's role: witness + informant, not rescuer.",
+          "quang": "Enabler (tested Feb 15, 2026). Most beaten by ba, chose avoidance/suppression. Protects ba. LOW/NO CONTACT.",
+          "third_brother": "Minimal contact, not assessed"
+        }
+      },
+      "play": {
+        "score": 9,
+        "target": 10,
+        "description": "High joy in activities. Strong engagement with people and experiences.",
+        "joy_activities": [
+          "Talking to interesting people",
+          "Being helpful in service for matters that are meaningful",
+          "Exploring new things and new places",
+          "Physical relaxation and swimming",
+          "Practice games (speed typing, speed reading)",
+          "Watching historical documentaries and entertainment",
+          "Traveling and learning about different cultures"
+        ]
+      },
+      "work_paid": {
+        "score": 7,
+        "target": 10,
+        "description": "Fully capable in finding and shipping meaningful work (80% capability, 20% exploration needed). Sometimes feels boring but unconsciously believes there is room to improve. Income comfortable but confident about room to grow - needs specific target. Not 70% sure of ultimate career goal but current work doesn't conflict with values.",
+        "challenges": "Need for navigation/exploration effort, occasional boredom, uncertainty about income growth targets, unclear ultimate career purpose",
+        "recent_insights": "High engagement with meaningful challenging tasks like automation, knowledge structuring, and agent development work. Exploring new job opportunities for growth."
+      },
+      "work_unpaid": {
+        "score": 10,
+        "target": 10,
+        "description": "Living in complete harmony with unpaid work. Has transformed perspective.",
+        "positive_reframes": [
+          "Repetitive jobs motivate better solutions",
+          "Like a cardio form of exercise",
+          "Form of cleaning the mind",
+          "Opportunity to retouch and appreciate physically helpful things",
+          "Practice of letting things go to make life light and clear for more meaningful things"
+        ]
+      },
+      "health_physical": {
+        "score": 10,
+        "target": 10,
+        "description": "Very happy with physical body. Able to listen to and respect it mindfully.",
+        "practices": "Regular workouts with personal trainer, swimming, mindful eating, physical relaxation, stretching, adequate sleep"
+      },
+      "health_mental": {
+        "score": 10,
+        "target": 10,
+        "description": "Strong mental health practices and awareness.",
+        "capabilities": [
+          "Able to recognize when stressed",
+          "Able to respect feelings and address them, stop activities to find relief",
+          "Able to respect self even during sleepless nights (stand up and work instead of forcing sleep)",
+          "Able to name feelings and recognize them for deeper understanding later",
+          "Currently learning more about emotions and emotional processes"
+        ]
+      },
+      "health_spiritual": {
+        "score": 7,
+        "target": 10,
+        "description": "Growing interest in spiritual development and understanding consciousness.",
+        "interests": [
+          "Original Buddhist system thinking",
+          "How the mind works",
+          "Meditation practice (though still developing consistency)",
+          "Purposeful life and transcendence",
+          "Balance between physical, psychological and social aspects"
+        ]
+      }
+    },
+    "activity_patterns": {
+      "high_flow_activities": [
+        "Meaningful work tasks with growth potential (10/10 engagement)",
+        "Conversations with interesting people about ideas and entrepreneurship",
+        "Learning and skill development (speed typing, speed reading)",
+        "Problem-solving and creating automated solutions",
+        "Exploring new opportunities and possibilities"
+      ],
+      "challenges": [
+        "Unplanned online shopping (impulsivity)",
+        "Surfing entertainment news instead of focused work",
+        "Need for external structure (app blockers) to manage distractions"
+      ],
+      "self_management_strategies": [
+        "Using app blockers for shopping and entertainment sites",
+        "Setting specific monthly reminder for planned shopping",
+        "Using notes to procrastinate on shopping decisions",
+        "Structuring work backlog with clear priorities"
+      ]
+    }
+  },
+  "work_life_philosophy": {
+    "last_reflection": "2025-10-11",
+    "workview": {
+      "why_work": "Generate potential value to future self and world (sense of purpose). Stay connected with group sharing common short-term goals, working/living mindset, and standards. Earn good money for security. Avoid feeling useless or left behind.",
+      "work_means": "Exchange current value (intelligence + energy + health + time + opportunity cost) to gain future value (intelligence +/- energy + opportunity benefit)",
+      "good_work_definition": "Meaningful + Financial rewards + Feeling of growth + Ethical + Sustainable",
+      "evolution_2021_to_2025": "Initially driven by fear of missing out and parental/societal expectations. Evolved to focus on generating potential value and maintaining professional progress. Growing awareness of need for balance between fulfillment and ethics/sustainability."
+    },
+    "lifeview": {
+      "why_here": "Species evolution brought best adaptable species to globe. Responsibility is to live with other species and make globe better place.",
+      "life_purpose_2025": "To live in the ways I wish while creating positive and sustainable effect to other livings in this globe",
+      "life_purpose_2021": "To create as many meaningful copies as possible in acceptable fulfilled, ethical and sustainable way",
+      "good_and_evil": "Any object has good and evil intertwined. Should be mindful and leverage/adjust by situation. Depends on common proposal agreed by group sharing same goals to decide positive and negative results contributing to common objective.",
+      "relationship_with_others": "Add vs. subtract positive energy. Desire support system where exchange positive energy when needed. Individual tends to find their tribe - gradual lifelong journey.",
+      "tribe_criteria": [
+        "Shared purpose",
+        "Open to share meaningful experience and knowledge",
+        "80% positive feeling"
+      ],
+      "family_role": "Place can go anytime with any feeling. No need to share mindset but share same objective - let everyone be peacefully themselves for their benefit with respect, not looking for payback."
+    },
+    "work_life_alignment": {
+      "complementary": "Lifeview drives workview. Both emphasize growth, meaning, and positive impact. Both value freedom and independence.",
+      "conflicts": "Work sometimes lacks the ethicity and sustainability emphasized in lifeview. Work driven by FOMO conflicts with desire for presence and acceptance. Independence sometimes lacks empathy for weaker people.",
+      "action_items": [
+        "Calculate specific financial freedom number",
+        "Nurture empathy for others",
+        "Find balance between exploration and commitment",
+        "Make gap between work and ideal tribe smaller",
+        "Learn to understand meaning of self to others",
+        "Avoid fear of missing out in rapidly changing world"
+      ]
+    }
+  },
+  "somatic_manifestations": {
+    "current_symptoms": [
+      {
+        "symptom": "Throat constriction pain and nausea ('đau nghẹn sinh lý', 'buồn nôn')",
+        "triggers": "Witnessing infidelity, processing trauma, emotionally intense situations",
+        "interpretation": "Somatic memories - body storing trauma. Cannot fake these responses.",
+        "clinical_note": "Van der Kolk (2014): 'The Body Keeps the Score' - somatic memories are valid trauma indicators"
+      }
+    ],
+    "stuck_images": "Traumatic memories stored in right brain with sensory details (Allan Schore, 2001)",
+    "body_as_truth_teller": "Physical responses validate abuse memories when cognitive doubt arises"
+  },
+  "clinical_considerations": {
+    "current_stressors": [
+      "Divorce finalized Nov 2025 after 1.5-year battle (Tân refused to sign, client paid lawyer to force it = RANSOM for freedom)",
+      "Processing 9-year relationship with Tân - completed major grief work on reaction formation and real love with wounds",
+      "Intensive trauma processing - Stage 2 (Remembrance & Mourning) at ~45%, emotionally exhausting",
+      "Grieving for 'mother who should have existed' (ambiguous loss)",
+      "Core wound: guilt toward mother is actually fear of consequences (traumatic bonding)",
+      "Mother's final betrayal processed: confrontation where mother denied abuse, showed zero curiosity about child's pain",
+      "PRODUCTIVITY ANXIETY (identified Feb 15, 2026): Mẹ's programming 'never allowed rest even when work finished' - cannot distinguish rest/recovery vs meaningful work vs maintenance. Mẹ's voice still active as internal critic measuring 'đủ productive'. Threatens sustainability of healing.",
+      "BURNOUT RISK (new Feb 15, 2026): Productivity anxiety + rest deficit + mẹ's voice driving constant activity. If not addressed: grief work stalls, old patterns re-emerge, healing progress threatened",
+      "Life transition at 33 with unclear ultimate career purpose",
+      "Managing Complex PTSD symptoms while maintaining high functioning",
+      "Vương affair comprehensively analyzed - NOT love, was addiction/limerence/survival mechanism during divorce battle",
+      "Neurological conditioning: sexual pleasure paired with Vương's obsessive desire - needs rewiring",
+      "Learning to trust feelings again after discovering both 'love Tân most' (reaction formation) and 'obsessed with Vương' (limerence) were FALSE",
+      "Emotional dysregulation from brain no longer trusting emotional data",
+      "Balancing spontaneity with need for follow-through and commitment",
+      "Fear of missing out (FOMO) driving work choices and creating restlessness",
+      "Uncertainty about financial positioning for future (60s-70s) despite comfortable current income",
+      "Fear of being left behind professionally in rapidly changing world",
+      "Family dynamics clarified but emotionally complex: ba = abuser (NO CONTACT), mẹ = NO CONTACT, Quang = enabler (LOW/NO CONTACT), Hiếu = ally",
+      "Managing impulsivity with shopping and entertainment distractions",
+      "Emotional overwhelm risk after intensive processing sessions",
+      "Deciding about wanting children from healed place (vs. fear of becoming mother)",
+      "Processing grief for 1.5-year divorce battle and ransom paid to Tân",
+      "Sexual rewiring - decouple pleasure from Vương's obsessive desire (neurological conditioning)",
+      "Safe rage expression toward Tân (refusal to sign), Vương (unavailable drug), self (for needing fantasy)",
+      "Processing intergenerational trauma without ending cycle through bloodline extinction (conscious healing instead)",
+      "Completing Vương mourning layers 2-5 + ritual",
+      "Processing Hà (Boss) trauma - not yet started",
+      "Mar 9-10: Hometown immersion post-burn-ritual — integration test in progress. Family mortality context (two funerals, caring aunt visit, declining grandparents). Mẹ medical report research (Mar 10) flagged: sovereign caregiving vs residual parentification pattern — bring to session."
+    ],
+    "coping_mechanisms": [
+      "Seeking new experiences and adventures to avoid discomfort",
+      "Problem-solving through creative and imaginative thinking",
+      "Connecting with others for support and inspiration",
+      "High activity level and keeping busy",
+      "Focusing on possibilities and positive outlook",
+      "Strong self-care practices: regular workouts, swimming, mindful eating, adequate sleep",
+      "Ability to name and recognize feelings for later processing",
+      "Respecting body signals and adjusting activities accordingly",
+      "Using external structure (app blockers, reminders) to manage impulsivity",
+      "Reframing unpaid work as meaningful (cardio, mind-cleaning, appreciation practice)",
+      "Engaging in flow activities: meaningful work, interesting conversations, skill-building games",
+      "Meditation practice (developing consistency)"
+    ],
+    "support_systems": [
+      "Brother Hiếu = confirmed ally (Feb 15, 2026): acknowledges family truth, monitors mẹ's safety, shared acknowledgment of abuse",
+      "Strong work connections: supportive team environment with trustworthy colleagues (Linh, Phúc)",
+      "Values connections with interesting people for sharing ideas and entrepreneurial discussions",
+      "Strong network-building tendency with 80% positive feeling criteria",
+      "Open to seeking help when facing challenges",
+      "Looking forward to romantic partnership but not actively seeking",
+      "Tribe criteria: shared purpose, open knowledge sharing, 80% positive feeling",
+      "Lien (high school friend, Mar 9 reconnect) — potential new no-mask person. 2-hour authentic conversation at hometown. Observing for durability outside nostalgic context."
+    ],
+    "family_contact_guidelines": {
+      "updated": "2026-02-15",
+      "ba": "NO CONTACT - identified abuser",
+      "me": "NO CONTACT - victim of ba, failed to protect client",
+      "quang": "LOW/NO CONTACT - enabler, most traumatized by ba, chose avoidance/suppression, protects ba. Do not initiate; if he initiates: polite but brief; do not share personal struggles",
+      "hieu": "MAINTAIN CONNECTION - confirmed ally, protector of mẹ, acknowledges truth. Continue sharing when client wants; Hiếu monitors mẹ (client delegates, does not rescue)"
+    },
+    "therapy_goals": [
+      "Learning to balance pursuit of pleasure/excitement with deeper self-acceptance",
+      "Confronting fears and embracing full spectrum of emotions (not just positive)",
+      "Developing better focus and follow-through on projects",
+      "Cultivating mindfulness and presence, especially with difficult emotions",
+      "Managing anxiety while maintaining optimistic outlook",
+      "Improving organization and consistency with long-term goals",
+      "Setting healthy boundaries to prevent overcommitment",
+      "Processing childhood trauma with mother - specific focus areas:",
+      "  - Separating mother's internalized messages from authentic self-values",
+      "  - Healing from transactional love model to trust genuine kindness",
+      "  - Reclaiming body autonomy and healing purity culture trauma",
+      "  - Processing messages that love/sexuality = destruction",
+      "  - Grieving the nurturing childhood that should have existed",
+      "  - Healing fear of criticism and need for perfection",
+      "  - Releasing 'debt to society' burden and workaholic justification for existence",
+      "Building healthier relationship patterns post-divorce",
+      "  - Learning what healthy love looks like (no ownership, no sacrifice as proof)",
+      "  - Trusting others' kindness without suspecting transactional motives",
+      "  - Balancing healthy independence with interdependence (not toxic self-reliance)",
+      "  - Developing comfort with physical and emotional intimacy",
+      "Developing and nurturing empathy for others, especially weaker/vulnerable people",
+      "Calculating specific financial freedom number and setting clear income growth targets",
+      "Finding balance between exploration and commitment in work and life",
+      "Learning to understand meaning and value of self to others",
+      "Managing fear of missing out (FOMO) in rapidly changing world",
+      "Exploring meaningful romantic relationship when ready (with healthy love model)",
+      "Making work environment align more closely with ideal tribe values",
+      "Developing intrinsic strategies to manage impulsivity (beyond external app blockers)",
+      "Deepening spiritual practice and consistency with meditation",
+      "Clarifying ultimate career purpose and life direction",
+      "Choosing authenticity over rebellion or compliance - honoring true interests",
+      "Reducing hypervigilance and fear of 'doing every single thing wrong'",
+      "Accepting help and support without seeing it as weakness or debt"
+    ],
+    "triggers": [
+      "Feeling trapped or restricted in situations/relationships (echoes 'home as prison')",
+      "Boredom and monotony",
+      "Routine and repetitive tasks",
+      "Criticism (tendency to take personally - childhood hypervigilance to avoid mother's unpredictable rage)",
+      "Being forced to confront negative emotions (learned to avoid to survive)",
+      "Lack of variety or new stimulation",
+      "Feeling controlled or micromanaged (maternal control pattern)",
+      "Being told what to admire or value (Marie Curie incident)",
+      "Expressions of ownership or possession in relationships (virginity trauma)",
+      "Suggestions that kindness requires reciprocation (transactional love model)",
+      "Messages about women's limitations or inferiority (math incident)",
+      "Anything suggesting body/sexuality is shameful or dangerous",
+      "Being caught making mistakes (childhood pattern of being caught for 'every single fault')",
+      "Pressure to choose between authenticity and approval",
+      "Situations requiring 'perfect' performance to avoid consequences"
+    ],
+    "resilience_factors": [
+      "Strong internal locus of control - believes in ability to influence own life",
+      "High resilience score (77%) - able to recover from setbacks",
+      "High confidence (77%) - trusts own abilities and judgments",
+      "Optimistic spirit - positive outlook gives strength during difficult times",
+      "Strong sense of control (87%) - feels able to influence events and outcomes",
+      "Authentic self-reflection - honest about strengths and flaws",
+      "Openness to different perspectives - eager to broaden horizons",
+      "High grit (67%) - perseverance for long-term goals despite obstacles",
+      "Creative problem-solving abilities",
+      "Strong social connections and ability to build relationships",
+      "Developed critical and reflective thinking from education",
+      "Experience with independence from living/working in Singapore"
+    ]
+  },
+  "therapeutic_preferences": {
+    "communication_style": "warm, professional, research-backed",
+    "session_depth": "deep and reflective",
+    "feedback_preference": "gentle but honest",
+    "preferred_approaches": [
+      "CBT",
+      "ACT",
+      "Psychodynamic",
+      "Trauma-informed"
+    ]
+  },
+  "current_focus_areas": {
+    "immediate": [
+      "PRODUCTIVITY ANXIETY HOMEWORK (critical): Track rest/work/maintenance categories for 3 days, schedule intentional rest blocks, practice 'enough' statement before bed, write letter to mẹ's voice",
+      "Learning to rest without guilt - challenging mẹ's 'rest = lazy' programming",
+      "Practicing mindfulness and presence with difficult emotions",
+      "Managing impulsivity with shopping and entertainment (using app blockers and structured reminders)",
+      "Maintaining strong self-care practices",
+      "Managing anxiety while maintaining enthusiasm",
+      "Continuing to name and recognize feelings for deeper understanding"
+    ],
+    "short_term": [
+      "Monitor productivity anxiety homework results and adjust",
+      "Complete letter to child Ngọc (pending since Dec 27, 2025)",
+      "Continue Vương mourning (Layer 2: honor survival function, when ready)",
+      "Grief ritual for 'mother who should have existed'",
+      "Setting and maintaining healthy boundaries with family",
+      "Improving follow-through on started projects",
+      "Developing empathy for others, especially weaker/vulnerable people",
+      "Balancing spontaneity with commitment",
+      "Processing divorce and relationship patterns",
+      "Making work align more with ideal tribe values"
+    ],
+    "long_term": [
+      "Complete Stage 2 layers sustainably (Vương, Tân, Hà, childhood, intergenerational)",
+      "Build sustainable Stage 3 life (reconnection, authentic interests, meaningful relationships)",
+      "Cultivating deeper acceptance of full spectrum of human experience",
+      "Achieving balance between exploration and commitment",
+      "Clarifying ultimate career purpose",
+      "Building healthy long-term romantic relationship that honors both connection and freedom",
+      "Deepening spiritual practice and meditation consistency",
+      "Sustaining long-term habits and personal growth practices",
+      "Understanding meaning and value of self to others"
+    ]
+  },
+  "key_insights": {
+    "personality_summary": "ENFP-T Type 7 with high openness, agreeableness, conscientiousness, and extraversion. Enthusiastic, creative, and sociable free spirit who embraces big ideas and actions reflecting hope and goodwill. Driven by desire for freedom, happiness, and new experiences while avoiding pain and limitation. Strong internal locus of control with excellent self-awareness and self-care practices.",
+    "core_strengths": "Creative problem-solving, genuine enthusiasm, strong relationship-building, adaptability, high achievement-striving, self-discipline, and internal locus of control. Resilient, confident, and able to inspire others. Exceptional self-care (10/10 physical and mental health). Ability to name and recognize feelings. Successfully reframed unpaid work as meaningful practice. High flow states with meaningful work and interesting conversations.",
+    "core_challenges": "Difficulty with routine tasks and follow-through, tendency toward overcommitment, impulsivity (especially shopping and entertainment), disorganization, high anxiety despite optimism, avoidance of negative emotions, and struggles with long-term consistency. Strong fear of missing out (FOMO) driving decisions. Uncertainty about ultimate career purpose and financial freedom targets. Challenging family relationships despite progress. Currently no romantic partnership.",
+    "growth_path": "Learning to embrace discomfort and full emotional spectrum, balancing exploration with commitment, developing focus and follow-through, cultivating mindfulness and presence, healing childhood trauma, and building sustainable habits. Developing empathy for others. Clarifying financial freedom goals and ultimate career purpose. Managing FOMO in rapidly changing world. Transitioning from external to intrinsic impulse management strategies.",
+    "therapeutic_approach": "CBT, ACT, Psychodynamic, and Trauma-informed approaches with warm, research-backed communication. Deep and reflective sessions with gentle but honest feedback. Focus on accepting negative emotions while maintaining optimism, improving executive function, and processing relational trauma. Support for work/life alignment, empathy development, and meaning-making.",
+    "recent_evolution": "Strong progress in self-care and emotional awareness (10/10 mental and physical health). Successfully transformed relationship with unpaid work. Evolved from FOMO-driven work (2021) to value-generation focus (2025). Growing awareness of need for empathy and understanding meaning to others. Actively using external structure to manage impulsivity while developing intrinsic strategies. High engagement with meaningful challenging work, especially automation and knowledge structuring."
+  },
+  "related_files": {
+    "relationship_history": "profile/relationship_history.json - Detailed analysis of 9-year marriage to Tân, affair with Vương, attachment patterns, family relationship dynamics",
+    "session_breakthroughs": "profile/session_breakthroughs.json - Major insights and cognitive shifts from therapy sessions",
+    "treatment_plan": "profile/treatment_plan.json - Short/medium/long-term goals, therapeutic modalities, risk management, progress indicators",
+    "roadmap": "roadmaps/current_roadmap.json - Personalized developmental roadmap with stage assessments and milestones",
+    "latest_session": "sessions/session_report_2026-02-16.md - Extended processing session Feb 15, 2026: productivity anxiety, biological determinism challenge, strategic family disclosure"
+  },
+  "notes": "Profile initially completed 2025-12-26 based on comprehensive personality testing from October 2025 including Big Five (bigfive-test.com), MBTI (16Personalities), Enneagram, and Locus of Control assessments. Test ID: 68e1edfd3c15b3abfeecd77b.\n\nUpdated 2025-12-27 (Version 2.1) to incorporate:\n(1) Life assessment from January 2025 with dimensional scores across love, play, work, and health domains\n(2) Work and life view reflections showing evolution from March 2021 to October 2025\n(3) Activity patterns and flow states from October-November 2025\n(4) Current stressors, therapy goals, and focus areas refined based on recent reflections\n(5) Comprehensive childhood trauma history from 'Understand my past' project (2024-2025) including detailed maternal relationship dynamics, specific traumatic incidents, emotional patterns, harmful internalized messages, and healing progress\n(6) CLINICAL DIAGNOSIS: Complex PTSD (C-PTSD), Disorganized Attachment Pattern, Betrayal Trauma - assessed by Dr. Sarah Chen 12/27/2025\n(7) INTENSIVE SESSION 12/27/2025: 3-hour trauma processing session with major breakthroughs including abuse validation, reframing of 9-year marriage, understanding of earned secure attachment capacity, internal working models identified, somatic manifestations documented\n(8) Physical abuse confirmation: beaten, locked in storage room, forced feeding, rough handling - mother recounts as 'chiến tích' (war stories)\n(9) Relationship history: 9-year marriage to Tân with 5 phases identified, sexual violence incident, affair with Vương (to be processed in next session)\n(10) Treatment plan established: Currently Stage 2 (Remembrance & Mourning), working toward Stage 3 (Reconnection)\n\nUpdated 2025-12-28 (Version 2.2) to incorporate:\n(1) EXTENDED SESSION 12/28/2025: ~6 hours with breaks (Daily Check-in + Intensive Analysis) - emotional intensity 8/10\n(2) EIGHT MAJOR BREAKTHROUGHS:\n    - Somatic decision-making: Honored body's 'NO' signal, chose Sài Gòn safety over family visit despite guilt\n    - CORE WOUND REVEALED: Guilt toward mother is actually fear of consequences (traumatic bonding pattern identified)\n    - Mother's Final Betrayal: Confrontation memory processed - mother denied abuse, showed zero curiosity about child's pain\n    - Intergenerational trauma understanding + children decision exploration (fear of passing trauma vs conscious healing)\n    - Vương attachment FULLY MAPPED: 10 mechanisms identified (NOT love - addiction/limerence/escape/survival mechanism)\n    - CRITICAL REFRAME: 1.5-year divorce battle context (Tân refused to sign for 1.5 years, client paid RANSOM for freedom)\n    - Reaction formation understanding: Explains why 'loved Tân most' during affair (unconscious unhappiness → conscious opposite)\n    - Physical avoidance vs emotional healing: Running hasn't worked, healing will\n(3) Vương affair comprehensive analysis: Nearly 2-year attachment explained by psychological double bind during divorce battle, neurological conditioning (sexual pleasure paired with Vương's obsessive desire), trauma bonding through shame, intermittent reinforcement, limerence as grief escape, competing with mother for 'trophy', represents unlived life\n(4) Divorce context updated: Finalized Nov 17-22, 2025 after 1.5-year battle. Tân's refusal = continued financial abuse (lawyer fees), emotional abuse (limbo), control (punishment), disrespect of autonomy\n(5) Reaction formation documented: Affair happened DURING period when client felt 'most in love with Tân' but was actually unconsciously dissatisfied. Both 'love Tân most' AND 'obsessed with Vương' were FALSE → brain no longer trusts emotional data = emotional dysregulation\n(6) MASSIVE boundary-setting progress: Chose safety over obligation despite guilt toward mother - beginning of genuine self-protection\n(7) Client self-regulation: Recognized overwhelm, asked to stop session appropriately - excellent boundary-setting with self\n(8) Intergenerational trauma reframe: Can end cycle through conscious healing (not bloodline extinction). Decision about children should be made from healed place in Stage 3 (6-12 months), not from fear\n\nUpdated 2026-02-15 (Version 2.3) to incorporate:\n(1) SESSION Feb 15, 2026: Extended Processing Session (~4 hours) - emotional intensity 6-7/10\n(2) THREE MAJOR BREAKTHROUGHS:\n    - Productivity anxiety wound identified: Mẹ's programming 'never allowed rest even when work finished'. Client independently traced symptom to origin. Three-category confusion (rest vs meaningful work vs maintenance) named and intervention begun\n    - Biological determinism rejected: Client questioned if ba's abuse = biology. Therapist challenged: biology provides drive, humans choose expression. Ba CHOSE abuse = moral failure, not biological inevitability. Client's expectation of protection = REASONABLE\n    - Strategic family disclosure executed perfectly: Tested Quang (declined - enabler, chose avoidance) and confirmed Hiếu (ally, shared acknowledgment, monitors mẹ)\n(3) FAMILY MAP UPDATED:\n    - Ba = abuser, NO CONTACT (vạch mặt nạ completed Feb 14, 2026)\n    - Mẹ = victim of ba, failed to protect client, NO CONTACT\n    - Quang = enabler, most traumatized by ba, chose suppression/avoidance, protects ba, LOW/NO CONTACT\n    - Hiếu = confirmed ally, monitors mẹ's safety, MAINTAIN CONNECTION\n(4) NEW RISK: Burnout - productivity anxiety + rest deficit threatens healing sustainability\n(5) Stage 2 progress: ~45% (up from ~40%). Ba Mẹ layer 100%, Childhood 70% (up from 60%)\n(6) Stage 3 begun: ~15% (up from ~10%). Family map updated, Hiếu connection strengthened, authentic interests begun\n(7) Homework assigned: Track rest/work/maintenance categories 3 days, schedule rest blocks, nightly 'enough' statement, letter to mẹ's voice\n(8) Client demonstrated: extraordinary self-awareness (independently traced productivity anxiety), sophisticated boundary-setting (Quang conversation), strategic thinking (selective family disclosure)\n(9) Mood 8/10, Sleep 79/100 - stable. No red flags (no dissociation, no suicidal ideation, no self-harm)\n\nCRITICAL CLINICAL NOTES:\n- Client is HIGH-FUNCTIONING TRAUMA SURVIVOR - success does NOT negate trauma\n- Achievement-striving (17/20) = SURVIVAL STRATEGY, not natural trait\n- Somatic symptoms present: throat constriction pain, nausea when triggered - BODY WISDOM TRUSTWORTHY\n- Pattern: self-sabotages intimacy, accepts abuse as 'deserved', difficulties with commitment\n- BREAKTHROUGH 12/27: Client confirmed abuse is real (not false memories), mother lacks capacity for unconditional love, 9 years with Tân WAS love (just love with wounds)\n- BREAKTHROUGH 12/28: Core wound is traumatic bonding with mother (guilt = fear of consequences), Vương was survival mechanism NOT love, client stuck neurologically (sexual conditioning needs rewiring)\n- Evidence of EARNED SECURE ATTACHMENT CAPACITY (Phase 2 with Tân) - client CAN heal and develop healthy attachment with continued work\n- Emotional dysregulation explained: Brain learned feelings can LIE (reaction formation with Tân, limerence with Vương both felt real but were false)\n- Client demonstrates extraordinary self-awareness, systematic documentation, willingness to face painful truths, no dissociation, strong self-regulation\n- PROGNOSIS: Excellent with appropriate pacing. Client choosing safety over guilt = massive progress. Beginning of genuine boundary-setting.\n\nSENSITIVE CONTENT: Contains detailed childhood trauma, physical and emotional abuse, sexual violence, purity culture trauma, affair analysis, neurological sexual conditioning, and complex maternal relationship. Handle with trauma-informed care.\n\nThis file is loaded at the beginning of therapy sessions and when using /update-profile command.\n\nUpdated 2026-03-10 (Version 2.4): Field observations Mar 9-10 (Hometown Integration). Burn ritual integration confirmed: family immersion WITHOUT mẹ-programming activation. Lien reconnection: 2-hour no-mask conversation, potential new authentic connection. Mẹ medical research flagged: parentification vs sovereign caregiving distinction needed in session. Stage 2: ~50%->52%. Stage 3: ~20%->22%."
+}

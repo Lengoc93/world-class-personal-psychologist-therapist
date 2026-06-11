@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-02",
+  "session_type": "full_therapy_session",
+  "duration_minutes": 45,
+  "mood_metrics": {
+    "mood_rating": null,
+    "energy_level": null,
+    "sleep_quality": null,
+    "stress_level": null,
+    "note": "Session began as emotional processing — no formal mood check-in conducted. Client entered with active rumination and emotional distress."
+  },
+  "main_themes": [
+    "Financial enmeshment with mother — decoding transactional love pattern",
+    "Causal attribution error: linking mother's physical deterioration to own financial boundaries",
+    "Intergenerational trauma — mother's 'trauma floor' set by maternal grandfather's abandonment",
+    "Inner child work — reclaiming the right to be seen and to set down responsibility for others' pain",
+    "FOG pattern (Fear, Obligation, Guilt) — identifying guilt as the dominant binding mechanism"
+  ],
+  "symptoms_identified": [
+    "Compassion fatigue from prolonged one-directional caregiving",
+    "Guilt-driven decision-making overriding rational assessment",
+    "Hypervigilance around mother's emotional states",
+    "Rumination presenting as 'overthinking about finance' — masking deeper relational wound",
+    "Somatic distress — mother's frail body described as 'haunting' (ám ảnh)"
+  ],
+  "clinical_observations": {
+    "emotional_state": "Client entered in a state of active rumination and emotional flooding, presenting the concern as financial overthinking. Underneath was deep exhaustion, grief, and righteous anger. By session end, emotional state shifted to clarity and relief — the financial question dissolved organically once the relational wound was processed.",
+    "cognitive_patterns": [
+      "Causal attribution error: automatically linking mother's suffering to own boundary-setting ('mẹ gầy → vì mình ngừng đưa tiền')",
+      "Internalized guilt programming: 30+ years of conditioning that mother's negative emotions = client's fault",
+      "Sophisticated self-analysis capacity — client can observe her own cognitive distortions in real-time when given space",
+      "Binary framing dissolving — moved from 'should I pay or not' to 'this was never about the money'"
+    ],
+    "behavioral_patterns": [
+      "Pre-session journaling as self-regulation — client arrived with detailed numbered analysis, indicating both intellectual processing strength and difficulty sitting with raw emotion",
+      "Pattern of yielding to adult-mother while suppressing anger of inner-child"
+    ],
+    "relational_patterns": [
+      "Four-role dynamic identified by client: inner-child-self, adult-self, adult-mother, inner-child-mother — client managing all four simultaneously",
+      "Compassion for mother's inner child blocked by self-protective mechanism — appropriate given ongoing harm from adult-mother",
+      "Financial caregiving pattern: client has been paying parents' medical bills long-term, creating expectation of 'easy money'",
+      "Mother's manipulation tactics clearly mapped: guilt-tripping, karma threats, canceling medical appointments as leverage, waiting for in-person requests to maximize emotional pressure"
+    ]
+  },
+  "interventions_used": [
+    "CBT — identifying causal attribution error in guilt-to-action linkage",
+    "IFS (Internal Family Systems) — naming the four parts active in the maternal relationship, identifying protector part blocking compassion as self-preservation",
+    "Psychoeducation — FOG model (Susan Forward), intergenerational trauma floor concept (Mariel Buqué), compassion fatigue",
+    "Inner child voice work — client spoke directly to internalized mother, expressing core needs",
+    "Reflective mirroring — distinguishing 'wanting to give' vs 'fearing not giving'",
+    "Validation of righteous anger as restorative emotion"
+  ],
+  "research_shared": [
+    {
+      "topic": "Filial obligation in Asian families",
+      "source": "Park & Kim (2020), Journal of Family Psychology",
+      "key_finding": "Healthy filial piety is based on reciprocal care; when weaponized for financial and emotional control, it becomes exploitation masked as cultural value",
+      "application": "Helped client distinguish between genuine hiếu thảo and the manipulative version she experienced"
+    },
+    {
+      "topic": "FOG — Fear, Obligation, Guilt",
+      "source": "Susan Forward, 'Emotional Blackmail' (1997)",
+      "key_finding": "Manipulative parents use three emotional levers (Fear, Obligation, Guilt) to maintain control over adult children",
+      "application": "Client identified Guilt as her primary binding mechanism — the feeling that mother's suffering is her fault"
+    },
+    {
+      "topic": "Internal Family Systems — Protector Parts",
+      "source": "Richard Schwartz, IFS Model",
+      "key_finding": "When compassion is weaponized by an attachment figure, protector parts block compassion as a survival strategy",
+      "application": "Normalized client's inability to feel compassion for mother's inner child — reframed as self-preservation, not moral failure"
+    },
+    {
+      "topic": "Intergenerational trauma floor",
+      "source": "Dr. Mariel Buqué, 'Break the Cycle' (2024)",
+      "key_finding": "Each generation sets their minimum standard at 'at least I'm not as bad as my parents' — creating a trauma floor that is lower than healthy",
+      "application": "Client recognized mother's 'I never abandoned you' as relative to grandfather's abandonment, not an objective standard of good parenting"
+    }
+  ],
+  "homework_assigned": "When guilt about mother arises in coming days, practice pausing and asking: 'Is this my voice or one I inherited?' Recall the statement made in session: 'Con không phải tồn tại để mẹ bào.' No action required — just notice when the old programming activates vs when genuine compassion speaks.",
+  "breakthroughs": [
+    {
+      "insight": "The financial question was never about money — it was about whether she has the right to exist for herself rather than as a resource for her mother",
+      "before_state": "Framed the issue as 'should I pay or not pay' — financial overthinking",
+      "after_state": "'Chuyện chi tiền không còn quan trọng nữa' — the question dissolved once the relational wound was processed",
+      "significance": "Major shift from surface-level decision anxiety to core wound recognition. Client arrived at this conclusion organically, not through therapist direction."
+    },
+    {
+      "insight": "Distinction between 'wanting to give' and 'fearing not giving' — all three reasons to pay were guilt-driven, not desire-driven",
+      "before_state": "Believed she was weighing a rational financial decision",
+      "after_state": "Recognized the decision was driven by FOG, not by genuine care or financial logic",
+      "significance": "Opens pathway to future boundary-setting from a place of clarity rather than guilt"
+    },
+    {
+      "insight": "Four-role dynamic: simultaneously managing inner-child-self, adult-self, adult-mother, inner-child-mother",
+      "before_state": "Felt confused and exhausted without understanding why the relationship was so draining",
+      "after_state": "Named and mapped all four roles she carries in every interaction with mother",
+      "significance": "Extraordinary self-awareness. This framework gives her a way to notice when she's being pulled into roles that aren't hers to carry."
+    },
+    {
+      "insight": "Inability to feel compassion for mother's inner child is self-preservation, not moral failure",
+      "before_state": "Felt guilty for not being able to empathize with mother's wounded inner child",
+      "after_state": "Understood that her protector part blocks compassion because adult-mother weaponizes it",
+      "significance": "Releases a layer of self-blame that was compounding the original wound"
+    },
+    {
+      "insight": "Causal attribution error — mother's physical deterioration is not caused by client's financial boundaries",
+      "before_state": "Unconsciously linked mother's frail body and pain to her own decision to stop giving money",
+      "after_state": "Recognized the linkage as a cognitive distortion programmed by decades of 'mother's pain = your fault' conditioning",
+      "significance": "Client identified this pattern herself — demonstrates growing capacity for real-time cognitive restructuring"
+    }
+  ],
+  "progress_indicators": [
+    "Client's analytical journaling before session shows increasing capacity for self-directed emotional processing",
+    "Ability to identify own cognitive distortions (causal attribution error) without therapist prompting",
+    "Organic arrival at resolution — 'chuyện tiền không còn quan trọng nữa' — without directive intervention",
+    "Inner child voice work produced authentic, boundaried expression rather than rage or collapse",
+    "Client's statement to mother included care ('mẹ hãy lo cho mẹ đủ tốt') alongside boundary — not cutting off, but restructuring",
+    "Four-role framework self-generated by client — demonstrates advanced introspective capacity"
+  ],
+  "concerns_flagged": [
+    "Compassion fatigue is significant — monitor for emotional depletion in upcoming weeks especially if mother escalates",
+    "Mother may intensify manipulation tactics (karma threats, guilt-tripping, physical symptom display) in response to client's strengthening boundaries — prepare client for extinction burst",
+    "Client's somatic response to mother's frail body ('ám ảnh') suggests possible trauma-linked visual triggers — may benefit from EMDR or somatic processing in future sessions"
+  ],
+  "next_session_focus": "Prepare for potential extinction burst from mother as boundaries strengthen. Explore what 'compassion without carrying' looks like in practice — how to maintain connection with mother while protecting inner child. Consider introducing structured boundary language for real-world interactions with parents.",
+  "therapist_notes": "This was a significant session. Client entered believing she was overthinking a financial decision and organically uncovered the entire relational architecture underneath. Her capacity for self-analysis is exceptional — the four-role framework and causal attribution identification were both client-generated. The key clinical moment was when the money question dissolved: this signals genuine emotional processing rather than intellectual bypass. Watch for regression when she next encounters mother in person — the programming is deep and body-level (somatic response to mother's frail body). The inner child voice work produced a healthy, boundaried statement that included care — this is not a client who wants to cut off her mother. She wants a real relationship. That makes the work harder but more meaningful. Next session should prepare her for the reality that mother is unlikely to change, and help her grieve that without it becoming a reason to collapse back into the old pattern."
+}

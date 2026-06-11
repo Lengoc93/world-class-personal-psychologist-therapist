@@ -1,0 +1,252 @@
+{
+  "version": "1.0",
+  "description": "Search query templates for finding current psychological research",
+  "last_updated": "2025-12-21",
+  "search_strategies": {
+    "general_principles": {
+      "always_include_year": "Add '2024' or '2025' to get latest research",
+      "quality_terms": ["research study", "meta-analysis", "RCT", "evidence-based", "clinical psychology"],
+      "source_filtering": "Use site: operator for credible sources (site:apa.org, site:nimh.nih.gov)",
+      "avoid": ["blog", "opinion", "self-help books", "non-peer-reviewed"]
+    },
+    "priority_sources": {
+      "tier_1_organizations": [
+        "apa.org - American Psychological Association",
+        "nimh.nih.gov - National Institute of Mental Health",
+        "who.int - World Health Organization",
+        "psychologytoday.com/us/basics - (for research summaries only)"
+      ],
+      "tier_1_journals": [
+        "Journal of Clinical Psychology",
+        "Journal of Counseling Psychology",
+        "Behavior Therapy",
+        "Clinical Psychology Review",
+        "Journal of Family Psychology",
+        "Cultural Diversity and Ethnic Minority Psychology",
+        "American Psychologist",
+        "Psychology of Women Quarterly"
+      ],
+      "tier_2_sources": [
+        "University research centers (.edu domains)",
+        "AAMFT (American Association for Marriage and Family Therapy)",
+        "National Center for PTSD",
+        "Center for Self-Compassion"
+      ]
+    },
+    "topic_search_templates": {
+      "divorce_recovery": {
+        "general": [
+          "divorce adjustment women 2024 research",
+          "post-divorce psychological recovery 2025 study",
+          "divorce grief timeline evidence based 2024"
+        ],
+        "identity_focused": [
+          "identity reconstruction after divorce 2024",
+          "post-divorce self-concept women research 2025",
+          "divorce identity crisis clinical psychology 2024"
+        ],
+        "timeline_healing": [
+          "divorce recovery timeline research 2024",
+          "how long divorce adjustment clinical study 2025",
+          "divorce healing stages evidence based 2024"
+        ]
+      },
+      "cultural_psychology": {
+        "asian_mental_health": [
+          "Asian American women mental health 2024",
+          "collectivism mental health Asian psychology 2025",
+          "cultural identity Asian women therapy 2024"
+        ],
+        "divorce_cultural_context": [
+          "divorce Asian cultural context 2024 research",
+          "Asian American divorce mental health 2025",
+          "collectivist culture divorce adjustment 2024"
+        ],
+        "shame_face": [
+          "cultural shame Asian mental health 2024",
+          "face saving Asian psychology research 2025",
+          "shame resilience Asian American 2024"
+        ]
+      },
+      "identity_development": {
+        "age_30_transition": [
+          "women 30s identity development 2024",
+          "age 30 life transition psychology 2025",
+          "women identity crisis 30 research 2024"
+        ],
+        "authentic_self": [
+          "authentic self development research 2024",
+          "values clarification therapy evidence 2025",
+          "true self psychology women 2024"
+        ]
+      },
+      "anxiety_depression": {
+        "symptoms": [
+          "divorce related depression 2024 research",
+          "anxiety after divorce women 2025 study",
+          "adjustment disorder divorce clinical 2024"
+        ],
+        "interventions": [
+          "CBT for divorce recovery 2024 evidence",
+          "mindfulness anxiety divorce 2025 RCT",
+          "ACT therapy life transitions 2024"
+        ]
+      },
+      "therapeutic_approaches": {
+        "self_compassion": [
+          "self-compassion divorce recovery 2024 Neff",
+          "self-compassion intervention evidence 2025",
+          "Kristin Neff self-compassion research 2024"
+        ],
+        "ACT": [
+          "Acceptance Commitment Therapy divorce 2024",
+          "ACT values clarification evidence 2025",
+          "ACT identity development 2024 research"
+        ],
+        "narrative_therapy": [
+          "narrative therapy life transitions 2024",
+          "reauthoring identity divorce 2025 research",
+          "narrative identity reconstruction 2024"
+        ],
+        "trauma_informed": [
+          "trauma-informed divorce therapy 2024",
+          "betrayal trauma divorce 2025 research",
+          "complex trauma relationship 2024"
+        ]
+      },
+      "post_traumatic_growth": {
+        "general": [
+          "post-traumatic growth divorce 2024",
+          "PTG relationship dissolution 2025 research",
+          "growth after divorce women 2024 study"
+        ],
+        "factors": [
+          "resilience factors divorce 2024 research",
+          "what predicts growth after divorce 2025",
+          "protective factors divorce adjustment 2024"
+        ]
+      },
+      "attachment_patterns": {
+        "general": [
+          "attachment style divorce recovery 2024",
+          "insecure attachment relationship 2025 research",
+          "attachment theory divorce adjustment 2024"
+        ],
+        "healing": [
+          "earned secure attachment therapy 2024",
+          "attachment healing adulthood 2025 research",
+          "corrective attachment experience 2024"
+        ]
+      },
+      "grief_loss": {
+        "types": [
+          "ambiguous loss divorce 2024 research",
+          "disenfranchised grief divorce 2025",
+          "grief lost future divorce 2024 study"
+        ],
+        "interventions": [
+          "complicated grief therapy 2024 evidence",
+          "meaning-making grief intervention 2025",
+          "grief counseling effectiveness 2024"
+        ]
+      },
+      "womens_mental_health": {
+        "relational_identity": [
+          "women relational identity 2024 research",
+          "relational-cultural theory 2025 Jordan",
+          "women self-in-relation psychology 2024"
+        ],
+        "autonomy_connection": [
+          "autonomy connection women psychology 2024",
+          "independence relationships women 2025 research",
+          "women identity autonomy 2024"
+        ]
+      }
+    },
+    "search_techniques": {
+      "broad_to_specific": {
+        "step_1": "Start with general topic (e.g., 'divorce recovery 2024')",
+        "step_2": "Refine based on what you find (e.g., 'divorce identity reconstruction 2024')",
+        "step_3": "Look for specific interventions or findings"
+      },
+      "source_specific": {
+        "apa_search": "site:apa.org [topic] 2024",
+        "nimh_search": "site:nimh.nih.gov [topic] 2024",
+        "journal_search": "'Journal of [Field]' [topic] 2024"
+      },
+      "intervention_specific": {
+        "efficacy": "[intervention] efficacy meta-analysis 2024",
+        "comparison": "[intervention] vs [intervention] RCT 2024",
+        "mechanism": "[intervention] mechanism of change 2024"
+      }
+    },
+    "evaluation_criteria": {
+      "is_it_credible": {
+        "yes_if": [
+          "Published in peer-reviewed journal",
+          "From established organization (APA, NIMH, WHO)",
+          "Cites original research",
+          "Written by credentialed professionals",
+          "Includes methodology and sample size"
+        ],
+        "no_if": [
+          "Blog post or opinion piece",
+          "No author credentials",
+          "No citations or references",
+          "Selling products or services",
+          "Sensational claims without evidence"
+        ]
+      },
+      "is_it_current": {
+        "ideal": "2024-2025",
+        "acceptable": "2022-2023",
+        "use_cautiously": "2020-2021",
+        "note": "Some classic research (attachment theory, etc.) remains foundational even if older"
+      }
+    },
+    "integration_guidelines": {
+      "when_to_cite": [
+        "Normalizing client experience ('Research shows this is common')",
+        "Providing hope ('Studies find that most people...')",
+        "Recommending intervention ('Evidence suggests that...')",
+        "Explaining symptoms ('Research identifies this as...')",
+        "Setting expectations ('Studies show typical timeline is...')"
+      ],
+      "how_to_present": {
+        "conversational": "Recent research found that... rather than According to Smith et al. (2024)...",
+        "relevant": "Connect directly to client's situation",
+        "accessible": "Translate academic language to plain language",
+        "hopeful": "Emphasize actionable insights and positive outcomes",
+        "balanced": "Be honest about limitations and individual variation"
+      },
+      "citation_format": {
+        "spoken_style": "'A 2024 study in [Journal] found that [finding]'",
+        "attribution": "Include source and year minimum",
+        "full_citation": "Save detailed citation in session notes for client reference if wanted"
+      }
+    }
+  },
+  "quick_reference": {
+    "most_common_searches": {
+      "normalizing": "Is [experience] normal after divorce 2024 research",
+      "timeline": "How long [symptom/phase] divorce 2024 study",
+      "intervention": "[therapy approach] for [issue] 2024 evidence",
+      "cultural": "Asian American [issue] 2024 research",
+      "hope": "post-traumatic growth divorce 2024",
+      "symptoms": "[symptom] after divorce 2024 clinical"
+    },
+    "emergency_resources_verify": [
+      "Always verify current crisis hotline numbers via WebSearch",
+      "Search: 'suicide prevention hotline 2025 USA'",
+      "Search: 'crisis text line current number'",
+      "Don't rely on static numbers - they may change"
+    ]
+  },
+  "usage_instructions": {
+    "during_session": "When a topic comes up that would benefit from research backing, use WebSearch with appropriate template",
+    "preparation": "Can search before session based on previous session themes",
+    "documentation": "Save searches and findings in session notes",
+    "efficiency": "Don't over-research during live session - 1-2 targeted searches maximum",
+    "priority": "Client connection > Research citation. Use research to enhance, not replace, therapeutic presence"
+  }
+}

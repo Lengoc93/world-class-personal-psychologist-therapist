@@ -1,0 +1,301 @@
+{
+  "version": "1.0",
+  "description": "Clinical symptom reference guide for mental health tracking and identification",
+  "symptom_categories": {
+    "mood_disorders": {
+      "depression": {
+        "clinical_name": "Major Depressive Symptoms",
+        "common_presentations": [
+          "Persistent sadness or low mood",
+          "Loss of interest in previously enjoyed activities",
+          "Fatigue or loss of energy",
+          "Changes in sleep (insomnia or hypersomnia)",
+          "Changes in appetite or weight",
+          "Difficulty concentrating",
+          "Feelings of worthlessness or guilt",
+          "Psychomotor agitation or retardation"
+        ],
+        "in_divorce_context": "Very common; often related to grief, loss of identity, and life disruption",
+        "interventions": ["CBT", "Behavioral activation", "Self-compassion practices"],
+        "tracking_questions": [
+          "How often do you feel sad or empty?",
+          "What activities used to bring you joy?",
+          "How is your energy level?"
+        ]
+      },
+      "adjustment_disorder": {
+        "clinical_name": "Adjustment Disorder with Depressed Mood",
+        "common_presentations": [
+          "Emotional symptoms in response to specific stressor (divorce)",
+          "Symptoms within 3 months of stressor",
+          "Impairment in functioning",
+          "Symptoms beyond expected reaction"
+        ],
+        "in_divorce_context": "Expected and common; part of natural adjustment process",
+        "interventions": ["Supportive therapy", "Problem-solving", "Stress management"],
+        "tracking_questions": [
+          "How are you managing daily tasks?",
+          "What feels most overwhelming right now?"
+        ]
+      }
+    },
+    "anxiety_disorders": {
+      "generalized_anxiety": {
+        "clinical_name": "Generalized Anxiety Symptoms",
+        "common_presentations": [
+          "Excessive worry about multiple areas",
+          "Difficulty controlling worry",
+          "Restlessness or feeling on edge",
+          "Muscle tension",
+          "Sleep disturbance",
+          "Irritability",
+          "Difficulty concentrating"
+        ],
+        "in_divorce_context": "Common with uncertain future and life changes",
+        "interventions": ["CBT", "Mindfulness", "Progressive muscle relaxation"],
+        "tracking_questions": [
+          "What do you worry about most?",
+          "How does worry affect your daily life?",
+          "Where do you feel tension in your body?"
+        ]
+      },
+      "social_anxiety": {
+        "clinical_name": "Social Anxiety Symptoms",
+        "common_presentations": [
+          "Fear of judgment from others",
+          "Avoidance of social situations",
+          "Fear of embarrassment or humiliation",
+          "Physical symptoms in social contexts"
+        ],
+        "in_divorce_context": "May increase due to shame, stigma, or changed social status",
+        "interventions": ["Exposure therapy", "Cognitive restructuring", "Social skills practice"],
+        "tracking_questions": [
+          "What social situations feel difficult?",
+          "What do you worry others think about you?"
+        ]
+      }
+    },
+    "trauma_related": {
+      "acute_stress": {
+        "clinical_name": "Acute Stress Response",
+        "common_presentations": [
+          "Intrusive thoughts or memories",
+          "Avoidance of reminders",
+          "Negative mood changes",
+          "Hyperarousal or hypervigilance",
+          "Dissociative symptoms"
+        ],
+        "in_divorce_context": "Can occur if divorce involved traumatic events or betrayal",
+        "interventions": ["Trauma-focused therapy", "Grounding techniques", "Safety planning"],
+        "tracking_questions": [
+          "Do you have unwanted memories or thoughts?",
+          "What triggers strong reactions?"
+        ]
+      },
+      "grief_symptoms": {
+        "clinical_name": "Complicated Grief / Prolonged Grief",
+        "common_presentations": [
+          "Intense yearning for what was lost",
+          "Difficulty accepting the loss",
+          "Identity confusion",
+          "Anger or bitterness",
+          "Difficulty moving forward"
+        ],
+        "in_divorce_context": "Expected; grief for relationship, future plans, and identity",
+        "interventions": ["Grief counseling", "Meaning-making", "Ritual and closure work"],
+        "tracking_questions": [
+          "What do you miss most?",
+          "What future did you lose?",
+          "How do you understand what happened?"
+        ]
+      }
+    },
+    "identity_related": {
+      "identity_confusion": {
+        "clinical_name": "Identity Disturbance / Identity Confusion",
+        "common_presentations": [
+          "Unclear sense of self",
+          "Difficulty knowing personal values",
+          "Feeling lost or without direction",
+          "Over-identification with roles",
+          "Difficulty making decisions"
+        ],
+        "in_divorce_context": "Very common; marriage often shapes identity",
+        "interventions": ["Values clarification", "Narrative therapy", "Self-exploration"],
+        "tracking_questions": [
+          "Who are you outside of relationships?",
+          "What matters most to you?",
+          "What feels true about yourself?"
+        ]
+      }
+    },
+    "emotional_regulation": {
+      "emotional_dysregulation": {
+        "clinical_name": "Emotional Dysregulation",
+        "common_presentations": [
+          "Rapid mood shifts",
+          "Intense emotional reactions",
+          "Difficulty calming down",
+          "Feeling overwhelmed by emotions",
+          "Impulsive reactions"
+        ],
+        "in_divorce_context": "Common during high-stress periods",
+        "interventions": ["DBT skills", "Emotion regulation strategies", "Distress tolerance"],
+        "tracking_questions": [
+          "How quickly do your emotions shift?",
+          "What helps you calm down?",
+          "When do you feel most overwhelmed?"
+        ]
+      }
+    },
+    "cognitive_patterns": {
+      "rumination": {
+        "clinical_name": "Rumination",
+        "common_presentations": [
+          "Repetitive thinking about problems",
+          "Dwelling on the past",
+          "Difficulty letting go of thoughts",
+          "Analysis paralysis",
+          "Why questions without answers"
+        ],
+        "in_divorce_context": "Very common; trying to make sense of what happened",
+        "interventions": ["Mindfulness", "Behavioral activation", "Cognitive defusion"],
+        "tracking_questions": [
+          "What thoughts keep coming back?",
+          "How much time do you spend thinking about the past?",
+          "What are you trying to figure out?"
+        ]
+      },
+      "negative_self_talk": {
+        "clinical_name": "Negative Automatic Thoughts",
+        "common_presentations": [
+          "Self-critical thoughts",
+          "Catastrophizing",
+          "Black-and-white thinking",
+          "Personalization",
+          "Mind-reading assumptions"
+        ],
+        "in_divorce_context": "Often includes shame, blame, and harsh self-judgment",
+        "interventions": ["Cognitive restructuring", "Self-compassion", "Thought records"],
+        "tracking_questions": [
+          "What do you tell yourself when things are hard?",
+          "What's your inner critic saying?",
+          "How do you talk to yourself vs. a friend?"
+        ]
+      }
+    },
+    "behavioral_patterns": {
+      "avoidance": {
+        "clinical_name": "Avoidance Coping",
+        "common_presentations": [
+          "Avoiding difficult emotions",
+          "Procrastination on important tasks",
+          "Social withdrawal",
+          "Substance use to numb",
+          "Distraction and busyness"
+        ],
+        "in_divorce_context": "Protective but can prevent processing and healing",
+        "interventions": ["Exposure", "Approach-based coping", "Values-aligned action"],
+        "tracking_questions": [
+          "What are you avoiding?",
+          "How do you cope with difficult feelings?",
+          "What would you do if you weren't afraid?"
+        ]
+      },
+      "isolation": {
+        "clinical_name": "Social Isolation / Withdrawal",
+        "common_presentations": [
+          "Reduced social contact",
+          "Declining invitations",
+          "Feeling disconnected from others",
+          "Belief that others won't understand",
+          "Shame-based withdrawal"
+        ],
+        "in_divorce_context": "Common due to shame, energy depletion, or changed social circles",
+        "interventions": ["Gradual re-engagement", "Social support building", "Shame resilience"],
+        "tracking_questions": [
+          "How connected do you feel to others?",
+          "What stops you from reaching out?",
+          "Who knows what you're going through?"
+        ]
+      }
+    },
+    "somatic_symptoms": {
+      "sleep_disturbance": {
+        "clinical_name": "Insomnia / Sleep Disturbance",
+        "common_presentations": [
+          "Difficulty falling asleep",
+          "Frequent waking",
+          "Early morning awakening",
+          "Unrefreshing sleep",
+          "Racing thoughts at night"
+        ],
+        "in_divorce_context": "Very common during stress and emotional upheaval",
+        "interventions": ["Sleep hygiene", "CBT-I", "Relaxation techniques"],
+        "tracking_questions": [
+          "How many hours do you sleep?",
+          "What keeps you awake?",
+          "How rested do you feel?"
+        ]
+      },
+      "physical_tension": {
+        "clinical_name": "Somatic Anxiety / Tension",
+        "common_presentations": [
+          "Muscle tension",
+          "Headaches",
+          "Digestive issues",
+          "Chest tightness",
+          "Physical restlessness"
+        ],
+        "in_divorce_context": "Body holds stress and emotions",
+        "interventions": ["Body scan", "Progressive muscle relaxation", "Somatic therapy"],
+        "tracking_questions": [
+          "Where do you hold tension?",
+          "What physical sensations do you notice?",
+          "How does your body feel stress?"
+        ]
+      }
+    }
+  },
+  "cultural_considerations": {
+    "asian_contexts": {
+      "shame_and_face": {
+        "description": "Divorce may be experienced as family shame or loss of face",
+        "symptoms_may_include": [
+          "Intense shame disproportionate to personal values",
+          "Fear of family/community judgment",
+          "Pressure to hide or minimize divorce",
+          "Cultural identity conflict"
+        ],
+        "culturally_adapted_approach": "Externalize cultural pressure; validate both cultural belonging and personal needs"
+      },
+      "collectivist_identity": {
+        "description": "Self-concept may be more relationally-defined",
+        "symptoms_may_include": [
+          "Identity confusion without relationship",
+          "Difficulty separating from family expectations",
+          "Guilt for individual choices",
+          "Tension between autonomy and belonging"
+        ],
+        "culturally_adapted_approach": "Integration model—honor both cultural values and individual growth"
+      },
+      "emotional_expression": {
+        "description": "Cultural norms may discourage emotional expression",
+        "symptoms_may_include": [
+          "Somatization of emotions",
+          "Difficulty naming feelings",
+          "Minimization of distress",
+          "Preference for indirect communication"
+        ],
+        "culturally_adapted_approach": "Respect communication style; offer multiple ways to express (verbal, creative, somatic)"
+      }
+    }
+  },
+  "usage_guide": {
+    "identification": "Listen for patterns, not just single instances",
+    "naming": "Use clinical terms to educate and normalize: 'What you're describing is called...'",
+    "tracking": "Monitor severity, frequency, and impact on functioning",
+    "intervention": "Match intervention to symptom and client preferences",
+    "cultural_competence": "Always consider cultural context in symptom presentation"
+  }
+}

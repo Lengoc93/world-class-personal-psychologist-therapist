@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(dir /s /b)",
+      "Bash(findstr:*)",
+      "Bash(dir \"C:\\\\Users\\\\lelub\\\\OneDrive\\\\Documents\\\\world class personal psychologist therapist\\\\sessions\" /b)",
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(move \"COMMANDS_REFERENCE.md\" \"cli_interface\"\" && move \"GETTING_STARTED.md\" \"cli_interface\"\")",
+      "Bash(move \"QUICK_REFERENCE.md\" \"cli_interface\"\" && move \"SYSTEM_OVERVIEW.txt\" \"cli_interface\"\")"
+    ]
+  }
+}

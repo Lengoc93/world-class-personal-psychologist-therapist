@@ -1,0 +1,48 @@
+{
+  "context_version": "1.0",
+  "last_updated": "Not yet initialized",
+  "historical_diaries_processed": false,
+  "total_entries_analyzed": 0,
+  "date_range": {
+    "earliest": null,
+    "latest": null
+  },
+  "narrative_summary": {
+    "life_story_themes": [],
+    "major_life_events": [],
+    "emotional_patterns": {
+      "recurring_emotions": [],
+      "triggers": [],
+      "emotional_cycles": []
+    },
+    "relationship_patterns": {
+      "with_self": "",
+      "with_others": "",
+      "attachment_style_indicators": []
+    },
+    "coping_mechanisms": {
+      "healthy": [],
+      "unhealthy": [],
+      "emerging": []
+    },
+    "values_and_priorities": [],
+    "growth_trajectory": {
+      "areas_of_progress": [],
+      "persistent_challenges": [],
+      "resilience_markers": []
+    },
+    "current_phase": {
+      "description": "",
+      "dominant_themes": [],
+      "emerging_needs": []
+    }
+  },
+  "insights_for_therapy": {
+    "strengths_to_leverage": [],
+    "vulnerabilities_to_support": [],
+    "goals_mentioned": [],
+    "unresolved_themes": [],
+    "therapeutic_priorities": []
+  },
+  "note": "This file will be automatically populated after your first diary context load. You can review it but shouldn't edit it manually - it's generated from your diary analysis."
+}

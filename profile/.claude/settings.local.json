@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'C:\\\\Users\\\\lelub\\\\OneDrive\\\\Documents\\\\world class personal psychologist therapist\\\\profile' -type f -name *)"
+    ]
+  }
+}

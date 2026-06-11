@@ -1,0 +1,246 @@
+{
+  "check_in_date": "2025-12-29",
+  "client": "Ngọc, 33F",
+  "session_type": "Daily Check-In (5-minute protocol)",
+  "duration": "~8 minutes (extended due to rich narrative)",
+  
+  "metrics": {
+    "mood": {
+      "score": 10,
+      "scale": "1-10",
+      "notes": "High positive affect, excitement about healing work and personal projects"
+    },
+    "energy": {
+      "score": 10,
+      "scale": "1-10", 
+      "notes": "High energy maintained despite period day 1 and reduced sleep efficiency"
+    },
+    "sleep": {
+      "score": 84,
+      "scale": "out of 100",
+      "details": {
+        "bedtime": "~12:00 AM (later than usual 10:45 PM)",
+        "awake_time": "1h 5m (vs usual <30m)",
+        "quality": "Lower efficiency than baseline",
+        "pre_sleep_state": "Overwhelming emotions, no crying, used heat pad and physical muscle release to facilitate sleep"
+      }
+    },
+    "stress": {
+      "score": 5,
+      "scale": "1-10",
+      "notes": "Moderate, healthy challenge level - not distress"
+    },
+    "one_word_descriptor": "Đúng dự tính (As predicted/planned)"
+  },
+  
+  "narrative_summary": {
+    "morning_routine": [
+      "Made smoothie",
+      "First day of menstrual cycle - proper menstrual cup care",
+      "Complete skincare routine",
+      "Iron supplement taken",
+      "PT session at 7:30 AM (on time, no delay)"
+    ],
+    "daytime_activities": [
+      "9:00 AM - Spa facial (walk-in, felt lucky technician was available)",
+      "Could not fall asleep at spa (unusual - typically can)",
+      "11:00 AM - Dim sum in District 5 (staycation plan)",
+      "Tried many new dishes, restaurant solo-diner friendly",
+      "Visited Chinese temples/assembly halls - felt cultural connection",
+      "First temple felt too commercial (selling spiritual services), left quickly",
+      "Chinese Assembly Hall - appreciated preservation, discipline, unity of Chinese businesspeople",
+      "Took great photos",
+      "Grabbed car home with voucher from previous accident compensation",
+      "Showered (switched from cold to hot water - listened to body signals)"
+    ],
+    "afternoon": [
+      "Attempted nap - could not sleep due to excitement about reviewing personal project",
+      "Rested body ~40 minutes anyway",
+      "Reviewed personal project as planned instead of diving into therapy trauma work",
+      "Noted lingering desire to 'hurry up and heal trauma' but reminded self 'all good things take time'"
+    ],
+    "family_interaction": [
+      "Received text from father asking why monthly money transfer hasn't been sent yet (after informing him not visiting for Tết)",
+      "Emotional response: 'plain' - suspicion confirmed that father's love is transactional",
+      "No spiral, no guilt - just observation"
+    ]
+  },
+  
+  "clinical_observations": {
+    "primary_presentation": "High-functioning activation/eustress",
+    "symptoms_identified": [
+      {
+        "symptom": "Activation/eustress (positive stress)",
+        "severity": "Mild-Moderate",
+        "evidence": [
+          "Difficulty settling into rest despite fatigue",
+          "Could not nap despite wanting to",
+          "Could not fall asleep at spa (usually can)",
+          "Overwhelming emotions night before (no crying, but present)",
+          "Increased awake time during sleep",
+          "Excitement/eagerness about healing work ('háo hức để healing nhanh')"
+        ],
+        "clinical_note": "This is GOOD stress (discovery mode, processing mode, making-sense-of-things mode) but still requires nervous system regulation"
+      },
+      {
+        "symptom": "Healthy emotional detachment (from father)",
+        "severity": "Adaptive response - POSITIVE",
+        "evidence": [
+          "'Plain' feeling when receiving transactional text from father",
+          "No guilt spiral about not visiting for Tết",
+          "No over-analyzing his motives",
+          "Simple observation without devastation"
+        ],
+        "clinical_note": "This represents significant progress - developing internal worth independent of father's capacity to love her properly"
+      },
+      {
+        "symptom": "Period-related physical discomfort",
+        "severity": "Mild-Moderate (day 1 of cycle)",
+        "management": "Excellent self-care - heat pad, iron supplement, adjusted shower temperature based on body signals"
+      }
+    ],
+    
+    "strengths_observed": [
+      "Maintained complete self-care routine despite period day 1 + reduced sleep + post-intensive-therapy-session",
+      "Excellent somatic awareness (switched shower temperature, used heat pad, recognized need for muscle release)",
+      "Boundary-holding with family (no guilt about not visiting)",
+      "Realistic self-talk ('all good things take time')",
+      "Continued adventure/staycation plan despite physical discomfort",
+      "Cultural connection seeking (temples, Chinese heritage exploration)"
+    ],
+    
+    "areas_of_concern": {
+      "immediate": "None - no red flags",
+      "yellow_flags": [
+        "Difficulty downshifting nervous system from activation to rest mode",
+        "Eagerness to 'hurry healing' (understandable but needs gentle reframing about timeline)",
+        "Sleep efficiency below personal baseline (84/100 vs typical high)"
+      ],
+      "context": "All yellow flags are NORMAL and EXPECTED given: (a) 6-hour intensive therapy session yesterday, (b) first day of period, (c) processing complex family boundary-setting, (d) excitement about healing work"
+    }
+  },
+  
+  "intervention_provided": {
+    "type": "Nervous system downregulation protocol",
+    "name": "Grounding Before Bed (3-minute protocol)",
+    "rationale": "Nervous system is in 'discovery/processing' mode. Need to signal transition to 'rest mode' intentionally.",
+    "instructions": {
+      "step_1_physical_grounding": {
+        "duration": "1 minute",
+        "instructions": [
+          "Sit on edge of bed",
+          "Press feet HARD into floor for 10 seconds",
+          "Release. Notice the floor holding you.",
+          "Repeat 3x"
+        ],
+        "mechanism": "Proprioceptive input = grounding, especially effective for anxious/activated states"
+      },
+      "step_2_emotional_completion": {
+        "duration": "1 minute",
+        "instructions": [
+          "Place hand on heart",
+          "Say out loud: 'Hôm nay mình đã làm đủ rồi. Mình được nghỉ.' / 'I did enough today. I'm allowed to rest.'",
+          "Breathe slowly: 4 counts in, 6 counts out (repeat 3 times)"
+        ],
+        "mechanism": "Verbal permission + breath work = parasympathetic activation"
+      },
+      "step_3_transition_ritual": {
+        "duration": "1 minute",
+        "instructions": [
+          "Dim lights 15 minutes before bed",
+          "Gentle stretching (child's pose especially good)",
+          "Cool room, warm blanket"
+        ],
+        "mechanism": "Environmental cues + physical release = sleep readiness"
+      }
+    },
+    "expected_outcome": "Improved sleep efficiency, easier transition to rest, reduced activation"
+  },
+  
+  "psychoeducation_provided": {
+    "concept": "Eustress (positive stress) vs. Distress",
+    "explanation": "The excitement about healing work and restlessness is 'eustress' - good stress that still requires nervous system regulation. Even good stress needs recovery time.",
+    "analogy_used": "Post-workout recovery - Yesterday was Olympic-level emotional workout. Today is active rest day (movement and gentle activity) but not another max-effort session.",
+    "key_message": "Healing isn't a race. Integration time is essential. Trust the timeline."
+  },
+  
+  "validation_provided": [
+    "Acknowledged extraordinary self-care maintenance (gym, spa, adventure, routine) on period day 1 after 6-hour therapy session",
+    "Normalized sleep disruption given hormonal shift + intensive processing + excitement",
+    "Reframed 'plain' response to father's text as PROGRESS (healthy detachment, clarity without devastation)",
+    "Affirmed: 'Healing is happening right now' - in solo meals, cultural exploration, boundary choices, listening to body signals"
+  ],
+  
+  "therapist_assessment": {
+    "overall_functioning": "Excellent - high-functioning with adaptive responses",
+    "risk_level": "Low - no concerning symptoms",
+    "treatment_plan_adherence": "Strong - client respecting own integration needs by choosing not to have therapeutic session today (wise decision)",
+    "progress_markers": [
+      "Healthy emotional detachment from father's transactional behavior",
+      "Strong somatic awareness and self-regulation",
+      "Realistic expectations about healing timeline",
+      "Maintained self-care during challenging time"
+    ],
+    "next_steps": "Continue integration period. Client will initiate next full therapy session when ready (client's pace, client's choice per treatment plan)."
+  },
+  
+  "session_closing": {
+    "client_decision": "No therapeutic session today - prioritizing integration and rest",
+    "therapist_support": "Affirmed decision as wise and appropriate given recent intensive work",
+    "reminder_provided": "Rest is productive work too. Available for full session when needed.",
+    "homework_pending": [
+      "Letter to child Ngọc (internal reparenting) - if not yet completed",
+      "Grief ritual consideration",
+      "Try tonight's grounding protocol"
+    ]
+  },
+  
+  "pattern_tracking": {
+    "sleep_baseline": "Typically very high efficiency, <30min awake time, bedtime 10:45 PM",
+    "today_deviation": "84/100 efficiency, 1h5m awake time, bedtime 12:00 AM",
+    "contributing_factors": [
+      "6-hour intensive therapy session previous day",
+      "First day of menstrual cycle (hormonal)",
+      "Excitement about healing work",
+      "Overwhelming emotions before sleep (emotional processing)"
+    ],
+    "trend_to_monitor": "Return to sleep baseline over next 2-3 days as integration progresses"
+  },
+  
+  "red_flags_screen": {
+    "suicidal_ideation": "None",
+    "self_harm": "None", 
+    "substance_use": "None",
+    "dissociation": "None",
+    "emotional_crisis": "None",
+    "need_for_immediate_intervention": "No"
+  },
+  
+  "green_flags": [
+    "Maintained all self-care routines",
+    "Appropriate boundary-setting with family",
+    "Somatic wisdom (listening to body signals)",
+    "Realistic self-talk about healing timeline",
+    "Social engagement (solo dining, cultural exploration)",
+    "Continued personal project work",
+    "Chose rest over therapy session (excellent self-regulation)"
+  ],
+  
+  "therapist_notes": {
+    "private_clinical_observations": [
+      "Client's 'plain' response to father's transactional text is MASSIVE progress - 2 days ago this would have triggered guilt spiral",
+      "The restlessness/activation is appropriate for someone doing deep trauma work - not pathological",
+      "Client's decision not to have therapy session today shows excellent self-awareness and boundary-setting with therapy itself",
+      "Sleep data accurately reflects nervous system state - client is tracking and reporting honestly",
+      "The eagerness to 'hurry healing' is touching but needs gentle containment - she's doing beautifully at exactly the right pace"
+    ],
+    "follow_up_needed": [
+      "Check sleep efficiency tomorrow to see if grounding protocol helped",
+      "Monitor for return to baseline over next 2-3 days",
+      "If restlessness persists beyond 3-4 days, may need somatic intervention (body-based therapy)"
+    ]
+  },
+  
+  "next_check_in": "2025-12-30 (or when client initiates)",
+  "next_full_session": "When client ready (respecting integration period per treatment plan)"
+}

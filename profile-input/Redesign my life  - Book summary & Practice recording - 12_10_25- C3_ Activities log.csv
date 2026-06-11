@@ -1,0 +1,67 @@
+Date,Dimension,Activity,"Is it a flow?
+(1 or 0)
+#time_fly, #fully_present, #fit_skill","Engagement
+(0 to10)
+#excited, #focused, #during, #bored, #restless","Energy
+(-10 to 10)
+ -10: lose a lot 
+0: no loose no gain 
++10:gain a lot
+
+","Meaning
+(0 to 10)
+#Growth,
+#Independence, #Social_Selection. #energy, #situationally_ethical","Joy
+(-10 to 10)
+-10: killing you
+0: numb
++10: #alive, #engaged, #energised
+",Remark ,time spent (hrs)
+2025-10-12,Play,Netflix at home,1,9,10,10,8,,
+2025-10-12,Health -physical,shower,0,5,8,2,7,,
+2025-10-12,Work - unpaid,prep for next day working and workout,0,5,2,2,4,,
+2025-10-12,Health -physical,sleep,0,3,8,8,7,,
+2025-10-13,Health -physical,prep breakfast smoothie,1,5,8,8,8,,
+2025-10-13,Work -paid,1st time review available drop-off metrics of the product and define list of metrics need checking everyday ,1,10,7,10,7,,
+2025-10-13,Work -paid,review sprint grooming finalist,0,9,7,9,6,,
+2025-10-13,Work -paid,review leftover conversation from last week + follow up with the owner,1,4,0,7,5,,
+2025-10-13,Work -paid,review and prioritize my backlog for this week,1,9,10,10,8,,
+2025-10-13,Work -paid,allocate task to 'automate the daily checking of drop-off metrics' to my work backlog,1,10,10,10,10,,
+2025-10-13,Work -paid,allocate task to `gather a structured knowledge base about consent for new DS architect proposed by Vuong`,1,9,8,9,9,,
+2025-10-13,Work -paid,allocate task to test `emotional intelligent` + write down the feedback,1,10,8,9,9,,
+2025-10-13,Work -paid,arrange meeting w Trey on Tue morning/night,0,0,0,0,0,,
+2025-10-13,Work -paid,install `quick jira ticket creating from template`: chrome-extension://inmachhhbcehlpklfjgenplmgffbiiaf/options.html,1,6,8,8,8,,
+2025-10-13,Health -physical,lunch alone,0,0,5,5,2,,
+2025-10-13,Health -physical,dinner,0,5,7,8,7,,
+2025-10-13,Health -physical,shower,1,5,9,9,9,,
+2025-10-13,Health - mental,sleep,1,0,9,9,1,,
+2025-10-13,Work - unpaid,talk to an hr to see if new opportunity,1,6,8,10,6,,
+2025-10-13,Love - social,chat chit about different country life with favorite people,1,10,10,10,10,,
+2025-10-13,Health -physical,stretching and relaxing muscle before sleep,0,5,0,8,4,,
+2025-10-13,Work - unpaid,wash the dish,0,0,-5,0,3,,
+2025-10-14,Work -paid,from problem to run simulation test case,1,5,7,9,9,,
+2025-10-14,Love - social,lunch with Duong-an interesting woman w product background,1,10,10,10,10,,
+2025-10-14,Work -paid,clustering pattern of calls went through the payment stage and find out whats wrong and right with the flow,1,7,7,9,10,,
+2025-10-14,Love - social,talk abt so many interesting entrepreneurial ideas w Duong and so many other interesting people and why they are interesting,1,10,10,10,10,,
+2025-10-14,Play,watch youtube of KhoaiLangThang for his new trip with mobihome to germany,1,10,10,10,10,,
+Oct-15-25,Work - unpaid,commute to gym with podcast,0,5,8,9,9,,
+Oct-15-25,Health -physical,workout with personal trainer,1,8,9,10,9,,
+Oct-18-25,Health -physical,Health check after HP treatment,0,0,0,6,0,,
+Oct-18-25,Health -physical,breakfast,0,5,8,0,9,,
+Oct-18-25,Love - family,talk to father over the breakfast,1,8,8,8,8,,
+Oct-18-25,Health -physical,have a brunch alone,0,5,8,0,9,,
+Oct-18-25,Health -physical,hair salon,1,7,8,5,9,,
+Oct-18-25,Work - unpaid,commute to gym without a podcast,0,0,0,0,0,,
+Oct-18-25,Health -physical,workout with personal trainer,1,8,9,10,9,,
+Oct-18-25,Health -physical,lunch ,0,5,8,0,9,,
+Oct-18-25,Health -physical,tidy home & laundering & taking rest after going out all day,0,3,1,5,0,,
+Oct-18-25,Work - unpaid,work on the designing my life,0,5,4,10,7,,
+Oct-18-25,Play,practice speedy typing via games,1,8,8,8,9,,
+Oct-18-25,Play,surfing entertainment news,1,8,4,0,9,"not focus on the designing my life work but surfing webs instead, just add an app blocker to restrict this",
+Oct-18-25,Play,practice speed reading via games,1,8,8,8,9,,
+Oct-18-25,Play,dinner + historical documentary youtube ,1,9,8,3,9,,
+Oct-18-25,Health - mental,meditate,0,5,5,8,4,,
+Oct-18-25,Work - unpaid,grocery shopping,1,0,3,8,5,,
+Oct-18-25,Play,online shopping not as plan,1,9,4,3,7,"Just remove the shopping app, using note for procrastinate on shopping. set a specific reminder on one day of the month to avoid many shopping with unplannned",
+Oct-18-25,Health -physical,tidy clothes,0,0,0,5,2,,
+Nov-1-25,Work -paid,Prompting for agent: Collecion of engagement files to what next in relevant with agent training and devlopment,1,10,10,10,10,,2.5
