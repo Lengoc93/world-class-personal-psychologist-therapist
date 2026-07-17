@@ -19,7 +19,7 @@ New relational material not in profile: a Bumble connection ("Abhi") met during 
 - Her going on Bumble "playful, travel mode" = body/sexuality reclamation (Stage 3), NOT self-sabotage.
 - Named two competing goals: A = "feel better fast to be productive" (possible mẹ/productivity-anxiety voice in disguise) vs B = "decode what the crash reveals about attachment/desire/fear." Chose to pursue B first; calm follows truth, we don't chase calm directly.
 
-## Timeline told so far (Taiwan, Day 4) — STOP POINT
+## Timeline told so far (Taiwan, Day 4, 03 June 2026) — STOP POINT
 1. ~10h after talking w/ Tâm about "Vin" (new work environment, sounds dramatic/stressful; client felt for Tâm, "maybe later me too, let's see"); journaling + prepping next day → opened app. Matched a TW-uni researcher: "interesting, let's match, fun."
 2. Abhi pushed to come to her room right away → client read red flag ("don't want a bad boy who just wants to fuck; I need to date/talk/feel, sex can come after"). Held boundary, protected next-day seminar, chose early sleep, set date for next afternoon.
 3. ~9am Abhi pushed to meet earlier, even suggested she skip the seminar; she refused. Suspected he was idle / a "fake researcher." Downgraded plan to coffee-only, privately planning to "validate then end it if fake." (Transactional/suspicion internal model + hypervigilant screening.)
