@@ -31,4 +31,14 @@ The client shared this (plus ~100 screenshots) on 2026-07-21 as part of a "clean
 
 ## Status of the relationship
 
-Over as of the session record: **Abhi blocked her** after she reached out about developing symptoms. Client has accepted it is ended. Self-narrative reframe held: the story ends with her finally voicing her deepest truth (*"I need heal, I got trauma, I need space"*) and being cut off for it — not with her as an aggressor/manipulator.
+Over as of the session record: **Abhi blocked her.** Client has accepted it is ended. Self-narrative reframe held: the story ends with her finally voicing her deepest truth (*"I need heal, I got trauma, I need space"*) and being cut off for it — not with her as an aggressor/manipulator.
+
+### ⚡ Addendum (2026-07-21) — the block sequence (a chat detail lost from the export)
+
+During an argument, **Abhi accused her that there was "not a single message where she showed she cared about him"** — an inaccurate accusation (the chat is full of her care: the fever, food, doctor, the soup story, "I'm open to help you"). It landed on her core "I'm a burden / I fail even at loving" wound. Her response was **not** self-defense but **self-erasure**: she told him *"better you block me or delete my contact for your own mind peace."* Then **~2 days of continued communication followed**, after which **he** chose to block her.
+
+**Clinical frame (do NOT let this become self-blame):**
+- Her line = the ultimate expression of the "I'm too much / I'm your liability" wound — framing her own disappearance as a *gift* to him (martyrdom / self-erasure), the same structure as "should I just fly back," "empty myself before coming to you," "hope you don't blame yourself."
+- She did **not** cause the block. She *offered* it in pain; 2 days of contact intervened; he made his own autonomous choice. Same over-responsibility loop as "I made him sick / I traumatized him" — a suggestion in an argument ≠ causing an action 2 days later.
+- Guard the counterfactual ("if I hadn't said that we'd still be together"): the relationship had already hit its limits under extreme conditions between two mismatched wounded people. One sentence didn't kill a viable love.
+- The belief to grieve/unlearn is **"I'm a burden, better I disappear,"** not the block itself.
