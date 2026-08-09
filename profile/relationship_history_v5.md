@@ -1,7 +1,7 @@
-# Relationship History v4.0
+# Relationship History v5.0
 
-**Last updated:** 2026-03-29
-**Assessed in sessions:** 2025-12-27, 2025-12-28, 2026-02-15, **2026-03-29 (Session 1A: TS Grief & Betrayal Processing)**
+**Last updated:** 2026-08-09
+**Assessed in sessions:** 2025-12-27, 2025-12-28, 2026-02-15, 2026-03-29 (Session 1A: TS Grief & Betrayal Processing), **2026-07-16→19 (Abhi arc, Parts A–C)**, **2026-08-09 (Romantic-capacity reframe + journey re-map)**
 **Note:** Detailed relationship timeline analyzed in trauma processing sessions with Dr. Sarah Chen
 
 ---
@@ -250,6 +250,48 @@ At the moment Vuong appeared, client was simultaneously:
 
 ---
 
+## ⚡ Abhi — First Post-Divorce Romantic Corrective Experience (July 2026)
+
+**Processed in sessions 2026-07-16, 07-18, 07-19 (bookmarks Parts A–C). Formal integration 2026-08-09.**
+
+### Who / Context
+
+- **Abhi:** Indian national, Austrian citizenship, post-doc aging researcher at a Taiwan university. Vegan. Calm, gentle, generally secure-relating; carries his own **betrayal wound** (ex cheated with a friend in his group → craves radical transparency; "hidden/ambiguous = dangerous").
+- **Met:** Bumble, during a self-funded AI conference in Taiwan (Day 4 of 5). Intended as casual "travel-mode" dating = **body/sexuality reclamation (Stage 3), NOT self-sabotage.**
+- **Arc:** casual → lover-like ("những sự kiện đặc biệt") → "THE WEEK" (heaven-and-abyss, "going home") → a second Taipei trip <1 month later into typhoon season → **the crash** → Abhi **blocked** her at the end.
+
+### Clinical significance
+
+Client's **first full romantic experience since the divorce.** Explicitly **NOT** a Vuong repeat, NOT limerence, NOT reaction formation — assessed as **real and good**. Functions as the pivotal live field-test of attachment capacity. (Full breakthrough detail in `session_breakthroughs_v2.md`, Abhi Arc.)
+
+### What it PROVED (capacity — intact)
+
+- **"Going home" in a person** — sacred/unprecedented for a prison-home child; slept straight, no anxious scenario-running.
+- **Body as reliable narrator** — consent moment (body *asked, not taken*), scent-as-love-filing, throat opening at "come", authentic desire in safety after deliberately not performing. Counters the "feelings lie / can't trust my body" wound.
+- **Corrective experiences received & kept:** "you got angry — doesn't mean the loving gone"; someone curious about her pain ("why have you been crying for"); Raj's non-transactional care received without the debt-reflex.
+
+### What it SURFACED (growth edges)
+
+- **Positive-data-downgrade filter** made physical — the **Meiji milk chocolate** he kept buying to her taste, registered only weeks later, still unopened in her fridge. Named as the cost of a nervous system never safe enough to notice being loved — and *beginning to dissolve*.
+- **Fear arrives when love becomes REAL** — the "bite": *"I feel nothing of intimacy between us, should I just fly back"* = **preemptive abandonment**. Advance–retreat within single nights; downgrading love back to sex; airport-hookup-text deactivation.
+- **Anchor-hunger overrides wisdom** — flew into a typhoon unchecked ("tình yêu làm mờ mắt") though normally hypervigilant about risk.
+- **"Should I be empty first?"** — sorted into purity-wound (self-erasure) vs. genuine unreadiness wisdom. Her psyche warned "pause"; anchor-hunger overrode it. Stage-2 grief not yet cashed out.
+- **Self-abandonment / over-responsibility / fawn** — owning even his viral infection; "sorry deeply" (4th-F appease); the core pattern of self-abandonment to protect others' pain (mother / Vuong's child / father). The **"third space"** question planted: heal without destroying the other or erasing self.
+- **Home-as-prison wound literalized** — the isolated red-lit motel triggered a **trauma flashback** (symptoms unfelt since COVID quarantine + kindergarten dark-room punishment). Named as trauma, not weakness.
+
+### The "too much" reframe (to keep)
+
+Welcome/food/safety/connection = **baseline, not excessive.** "Too much" is the inherited mother-voice ("existence = debt"). **Need** (never too much) vs. **delivery** (flooding a sick partner = terror without a brake — learnable). **Anchor: "I'm not too much — I've just been starved too long."**
+
+### Viability read (client draws own conclusion)
+
+When SHE hurt → his silence; when HE hurt → his blame/withdrawal/**block**. Neither could hold the other's pain. His ~30% capacity (real viral fever + typhoon + failed experiment + pre-activated betrayal-wound) recontextualizes his flatness — without erasing her valid unmet needs. Two starving creatures in the dark; no villain. **Self-narrative reframe:** the story ends with her voicing her deepest truth (need to heal/space) and being cut off for it — beginning of self-respect.
+
+### Status
+Relationship: **ended / blocked.** Grief work for the loss pending (guard true volume against retroactive erasure). "Third space" + "brake" (distress tolerance / co-regulation) flagged as growth edges.
+
+---
+
 ## Singapore One Night Stand
 
 - **Context:** During Phase 3 with Tân
@@ -296,9 +338,15 @@ Positive — client demonstrated ability to achieve earned secure attachment (Ph
 
 ## Current Relationship Status
 
-- **Romantic partner:** None
+- **Romantic partner:** None. **Abhi (July 2026) ended — he blocked her.** Grief work pending.
 - **Divorce status:** Divorced from Tân — finalized November 17–22, 2025
 - **Children:** None
+
+### ⚡ 2026-08-09: Romantic-Capacity Reframe (see session_breakthroughs)
+
+The presenting question — *"how do I know I can sustain a deep, long-term intimate/romantic partnership?"* — was reframed. **Capacity is confirmed** (Abhi + a lived earned-secure friendship). The precise open questions are now: (1) **the brake** — a "not now" not becoming "abandoned forever" (distress tolerance + co-regulation); (2) **wrong address** — ceasing to assign romance the parent-sized repair job ("romance carries a parent-repair template; friendship has none"); (3) **the filter** — dissolving the positive-data-downgrade filter to receive love in real time; (4) **fullness & timing** — entering from wholeness not drowning, honoring that Stage-2 grief is not yet cashed out.
+
+**Core structural finding:** the only anchor she has ever had is herself → depending on a partner is *foreign*, not just frightening. Deepest fear = **losing herself ("floating"), not losing him.** Healing frame: she never has to stop being her own anchor — only to allow a *second* point of support (dependency paradox, Feeney). The parent-wound's correct address is **re-parenting + grief + safe relationships broadly**, not a romantic partner.
 
 ### Children Decision Exploration
 

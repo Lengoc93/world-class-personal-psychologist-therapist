@@ -1,9 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.3",
   "status": "active",
   "created_date": "2026-02-15",
-  "last_updated": "2026-02-15",
-  "note": "Roadmap populated from session data through Feb 15, 2026. Based on Herman's Trauma Recovery Model (3 stages) and comprehensive session assessments.",
+  "last_updated": "2026-08-09",
+  "note": "Roadmap refreshed Aug 9, 2026. Integrates: Mar 29 TS grief (Session 1A — Kara/Hà chain of power betrayals, Vuong-as-oxy); the Abhi arc (Jul 16–19 — first post-divorce romantic corrective experience); and the Aug 9 romantic-capacity reframe + journey re-map. Based on Herman's Trauma Recovery Model (3 stages). Prior roadmap body (goals G1–G6, milestones) retained below and extended.",
 
   "instructions": {
     "review": "Review and update using /view-roadmap command monthly",
@@ -24,9 +24,10 @@
   },
 
   "overall_journey": {
-    "total_progress": "~30% complete",
-    "hardest_work_done": "Ba mẹ foundation (unmasking, boundary-setting) = DONE",
-    "remaining": "Hills, not mountains. With rest, sustainable."
+    "total_progress": "~48% complete (Stage 2 ~65%, Stage 3 ~35%) — as of Aug 9, 2026",
+    "hardest_work_done": "Ba mẹ foundation (unmasking, boundary-setting) = DONE. TS/workplace betrayal chain now witnessed. First full romantic field-test (Abhi) lived and processed.",
+    "remaining": "Hills, not mountains. Remaining Stage-2 grief (Tân completion, Kara/Hà evidence-sorting, Abhi loss) + the four romantic build-targets (brake, wrong-address, filter, fullness/timing).",
+    "aug9_reframe": "Romantic capacity CONFIRMED (Abhi + a lived earned-secure friendship). Question shifted from 'can I sustain deep long-term intimacy?' to the four precise build-targets. Structural root named: the only anchor she has ever had is herself → dependence is foreign, not just frightening. She never has to stop being her own anchor — only allow a second point of support."
   },
 
   "stage_assessment": {
@@ -42,7 +43,7 @@
     },
 
     "stage_2_remembrance_mourning": {
-      "status": "IN PROGRESS - ~45% complete",
+      "status": "IN PROGRESS - ~65% complete (Aug 9, 2026). Updated layers: ba_me 100%; childhood 85%; Tân ~55% (passive-betrayal layer added Mar 29, grief incomplete); Vuong dissolving (oxy reframe); Kara 15% + Hà 5% (chain of power betrayals, opened Mar 29, evidence-sorting still owed); NEW active grief: loss of Abhi (Jul 2026).",
       "layers": {
         "ba_me_unmasking": {
           "progress": "100% COMPLETE",
@@ -95,19 +96,25 @@
     },
 
     "stage_3_reconnection": {
-      "status": "BEGINNING - ~15% complete",
+      "status": "BEGINNING - ~35% complete (Aug 9, 2026)",
       "progress": [
         "Family map updated and clarified (Feb 15, 2026)",
         "Hiếu connection strengthened (confirmed ally)",
         "Authentic interests begun (learning for joy, system-building)",
-        "Healthy boundary-setting demonstrated (Quang conversation)"
+        "Healthy boundary-setting demonstrated (Quang conversation)",
+        "Career compass functioning cleanly (PhD closed with clarity Mar 2026; Vingroup filtered through sovereignty)",
+        "Support network expanding (Hiếu, Quỳnh, Lien, Ceej, Hạnh, Raj)",
+        "BODY/SEXUALITY RECLAMATION ACTIVE + validated (Abhi, Jul 2026): authentic desire in safety, body-as-reliable-narrator, consent-based sexuality (asked-not-taken) — corrective for purity/marital-sexual-violence wounds",
+        "First full post-divorce ROMANTIC field-test lived and processed (Abhi) — capacity confirmed",
+        "Receiving non-transactional care demonstrated (Raj; corrective experiences kept)"
       ],
-      "not_started": [
-        "Body/sexuality reclamation (after Vương layers complete)",
+      "not_started_or_in_progress": [
+        "Healthy romantic relationship — capacity confirmed; now building the four targets (brake, wrong-address, filter, fullness/timing)",
+        "The 'brake' — distress tolerance + co-regulation (growth edge)",
+        "The 'third space' — heal without self-erasure or destroying the other",
         "Meaningful work redefinition on own terms",
-        "Healthy romantic relationship (when ready)",
         "Trauma integration (12-18 months out)",
-        "Chosen family building"
+        "Chosen family building (in progress)"
       ]
     }
   },
@@ -195,6 +202,60 @@
       "status": "in_progress",
       "current_state": "Understanding done (50%), emotional processing incomplete",
       "rationale": "Grief for 1.5-year battle, safe rage expression, sexual rewiring needed."
+    },
+    {
+      "id": "G7",
+      "goal": "Build the 'brake' — distress tolerance + co-regulation",
+      "category": "Stage 3 - Romantic/Attachment",
+      "priority": "HIGH",
+      "status": "pending",
+      "added": "2026-08-09",
+      "rationale": "Abhi arc showed intimacy triggers flooding/bite/deactivation. A 'not now' collapses into 'abandoned forever.' The brake is the skill that makes deep intimacy survivable.",
+      "success_criteria": [
+        "Can tolerate a partner's temporary unavailability without preemptive abandonment",
+        "Has a container for protest urges (does not flood)",
+        "Can co-regulate rather than only self-rescue"
+      ]
+    },
+    {
+      "id": "G8",
+      "goal": "Stop assigning romance the parent-sized repair job (wrong address)",
+      "category": "Stage 3 - Romantic/Attachment",
+      "priority": "HIGH",
+      "status": "pending",
+      "added": "2026-08-09",
+      "rationale": "Romance carries a parent-repair template; friendship has none. Route the parent-wound to re-parenting + grief + safe relationships broadly, freeing romance to be 'just caring, no template.'",
+      "success_criteria": [
+        "Can notice when a romantic pull is the parent-repair template firing",
+        "Anchor-hunger no longer overrides discernment/risk-auditing",
+        "Enters connection from fullness, not the drowning reach"
+      ]
+    },
+    {
+      "id": "G9",
+      "goal": "Dissolve the positive-data-downgrade filter",
+      "category": "Stage 3 - Romantic/Attachment",
+      "priority": "MEDIUM",
+      "status": "in_progress",
+      "added": "2026-08-09",
+      "rationale": "Threat-mode brain cannot register small love-signals in real time (Meiji chocolate). Filter is beginning to dissolve — she now sees it.",
+      "success_criteria": [
+        "Registers care/love-signals as they happen, not weeks later",
+        "Said-vs-felt gap narrows (positive data not auto-downgraded)"
+      ]
+    },
+    {
+      "id": "G10",
+      "goal": "Grieve the loss of Abhi + find the 'third space'",
+      "category": "Stage 2/3 - Grief + Self-abandonment",
+      "priority": "MEDIUM",
+      "status": "pending",
+      "added": "2026-08-09",
+      "rationale": "Real loss, worth mourning at true volume (guard against retroactive erasure AND self-blame). 'Third space' = heal without self-erasure or destroying the other (mother / Vuong's child / father live examples).",
+      "success_criteria": [
+        "Loss mourned without erasing that it was real and good",
+        "Can name a path to her own healing that does not require self-erasure or another's destruction"
+      ]
     }
   ],
 
@@ -253,9 +314,30 @@
       "date": "2026-02-15",
       "milestone": "Strategic family disclosure: Quang tested (declined), Hiếu confirmed (ally)",
       "significance": "Family map fully clarified. Client has one safe member, clarity about all others, monitoring system for mẹ."
+    },
+    {
+      "date": "2026-03-29",
+      "milestone": "TS Grief Session 1A: Kara story witnessed; chain-of-power-betrayals pattern; Vuong-as-oxy; 'giọng mình'",
+      "significance": "Foundational workplace trauma (~3 yrs carried alone) processed for the first time. Connected childhood programming to workplace to relationship choices."
+    },
+    {
+      "date": "2026-07-16_to_19",
+      "milestone": "The Abhi arc — first full post-divorce romantic corrective experience, lived and processed",
+      "significance": "Capacity confirmed ('going home' in a person, body-as-reliable-narrator, corrective experiences received). Surfaced the romantic growth edges (positive-data filter, anchor-hunger, fear-when-love-is-real, fawn/over-responsibility, the brake)."
+    },
+    {
+      "date": "2026-08-09",
+      "milestone": "Romantic-capacity reframe + client-directed journey re-map",
+      "significance": "Question shifted from 'can I sustain deep intimacy?' (answered YES) to four precise build-targets. Named the parent-repair template as the core mechanism and 'the only anchor I've ever had is myself' as the structural root. Client navigated her own treatment — self-authorship of the therapeutic process."
     }
   ],
 
-  "roadmap_reviews": [],
-  "next_review_date": "2026-03-15"
+  "roadmap_reviews": [
+    {
+      "date": "2026-08-09",
+      "reviewer": "Dr. Sarah Chen",
+      "summary": "Refreshed after a 6-month gap (prior body was Feb 15). Integrated Mar 29 TS grief, the Abhi arc, and the Aug 9 reframe. Stage 2 45%→65%, Stage 3 15%→35%. Added goals G7–G10 (brake, wrong-address, filter, Abhi grief/third-space)."
+    }
+  ],
+  "next_review_date": "2026-09-09"
 }

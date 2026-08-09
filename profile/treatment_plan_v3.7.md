@@ -1,7 +1,7 @@
-# Treatment Plan v3.6
+# Treatment Plan v3.7
 
 **Created:** 2025-12-27
-**Last updated:** 2026-03-29 (post-Session 1A: TS Grief & Betrayal Processing)
+**Last updated:** 2026-08-09 (post Abhi arc [07-16→19] + romantic-capacity reframe/journey re-map)
 **Created by:** Dr. Sarah Chen
 **Client:** Ngọc, 33, Female
 **Primary diagnosis:** Complex PTSD (C-PTSD)
@@ -10,8 +10,12 @@
 
 ## Current Stage
 
-**Primary:** Stage 2: Remembrance & Mourning (Herman's Trauma Recovery Model) — ~62% complete
-**Secondary:** Stage 3: Reconnection — ~28% begun
+**Primary:** Stage 2: Remembrance & Mourning (Herman's Trauma Recovery Model) — ~65% complete
+**Secondary:** Stage 3: Reconnection — ~35% begun
+
+### ⚡ Aug 9 Stage Notes
+
+Stage 2: 62% → ~65%. The Abhi arc did not "complete" a layer but **surfaced and named** several previously-implicit structures (positive-data-downgrade filter, anchor-hunger, fawn/over-responsibility, "third space," the parent-repair template) and added a **new active grief** (loss of Abhi) to process. Stage 3: 28% → ~35% — **body/sexuality reclamation is now active and validated** (authentic desire in safety, body-as-reliable-narrator), a **full romantic field-test** was lived, and **receiving non-transactional care** was demonstrated (Raj; corrective experiences kept). The romantic domain has moved from theoretical to *lived data*.
 
 ### Layer Status
 
@@ -31,6 +35,21 @@
 ### Stage Change Notes (Mar 29)
 
 Stage 2: 60% → 62%. Kara layer opened (0% → 15%) — first-time therapeutic disclosure of foundational workplace trauma. Hà layer contextualized (0% → 5%) via chain-of-betrayals pattern. Vuong: 35% → 40% (oxy reframe adds significant new context for guilt processing). Tân: still 55% but new passive-betrayal layer identified. Two new structural findings: chain of power betrayals pattern (meta-pattern across layers) and "giọng mình" (client's genuine analytical uncertainty about competency, not trauma echo). Stage 3 unchanged at 28%.
+
+### ⚡ Romantic-Domain Clinical Threads (NEW — from Abhi arc + Aug 9)
+
+Six structures now named and prioritized for the romantic/attachment domain:
+
+| Thread | Status | Clinical note |
+|--------|--------|---------------|
+| **Parent-repair template** | 🔴 CORE MECHANISM | Romance unconsciously assigned the parent-sized job of "the one who loves me right (as mẹ didn't)." Letter to the wrong address: peer ≠ parent (bottomless need) + re-creates the original power structure → alarm. Unifies anchor-hunger, "sợ trôi," and the Abhi crash. Friendship is safe because no ghost of mẹ is in it. |
+| **Anchor-hunger overrides wisdom** | 🔴 ACTIVE | Cast as oxygen/parent, the hunger hijacks discernment (typhoon flight unchecked; Vuong-as-oxy earlier). Root: "the only anchor I've ever had is myself." |
+| **Positive-data-downgrade filter** | 🟡 DISSOLVING | Threat-mode brain can't read small love-signals (Meiji chocolate). *Beginning to dissolve* — she now sees it. |
+| **Fear arrives when love becomes REAL ("the bite")** | 🟡 ACTIVE | Preemptive abandonment / downgrade-love-to-sex / deactivation. Distinguish from genuine unreadiness. |
+| **Self-abandonment / over-responsibility / fawn** | 🟡 ACTIVE | Caring past the receiver's boundary; owning others' pain/illness; "sorry deeply." Through-line: mother / Vuong's child / father. → the **"third space"** question. |
+| **The brake (distress tolerance + co-regulation)** | ⚡ GROWTH EDGE | A "not now" collapsing into "abandoned forever"; flooding as protest behavior. The skill to build so intimacy is survivable. |
+
+**Capacity confirmed (protective):** "going home" in a person, body-as-reliable-narrator, a *lived* earned-secure friendship, corrective experiences received and kept. The romantic question is no longer "can she?" but "from what state, with what brake, addressed to whom."
 
 ---
 
@@ -191,7 +210,14 @@ Two core shame wounds (capability + moral) remain 🔴 — both now have richer 
 
 ### Build healthy romantic relationship
 
-**Prerequisites:** Earned secure capacity; updated working models; trauma reenactment recognition; intrinsic self-worth; body alarm trusted in partner selection; **organizer of sin belief resolved (Vuong guilt not contaminating new relationships); seduction-rejection-retaliation pattern understood (so it's not repeated or feared)**
+**Reframed Aug 9 — capacity is CONFIRMED (Abhi + lived earned-secure friendship). The question is no longer "can she sustain it?" but four precise build-targets:**
+
+1. **The brake** — build distress tolerance + co-regulation so a "not now" doesn't become "abandoned forever" (replaces flooding/bite/deactivation).
+2. **Wrong address** — stop assigning romance the parent-sized repair job; route the parent-wound to re-parenting + grief + safe relationships broadly, freeing romance to be "just caring, no template."
+3. **The filter** — dissolve the positive-data-downgrade filter so love is received in real time, not weeks later.
+4. **Fullness & timing** — enter from wholeness, not from the drowning reach; honor that Stage-2 grief is not yet fully cashed out (her own "pause" wisdom vs. the purity-wound "must be empty first").
+
+**Also carry forward:** updated working models; trauma-reenactment recognition; intrinsic self-worth; body alarm trusted in partner selection; **organizer of sin belief resolved (Vuong guilt not contaminating new relationships); seduction-rejection-retaliation pattern understood (so it's not repeated or feared).** Structural anchor: *"I never have to stop being my own anchor — only allow a second point of support"* (dependency paradox, Feeney).
 
 ### Maintain family boundaries
 
@@ -264,7 +290,17 @@ Two core shame wounds (capability + moral) remain 🔴 — both now have richer 
 
 ## Next Session Agenda
 
-### Session 1B — TS Grief Continued (IMMEDIATE PRIORITY)
+### ⚡ Abhi Arc — Open Follow-Ups (as of Aug 9, offer, do not impose)
+
+| Priority | Topic | Actions |
+|----------|-------|---------|
+| 🟡 1 | **Grief for Abhi (the loss)** | Keep the beauty at true volume; guard against retroactive erasure AND self-blame flip. The loss is real and worth mourning. |
+| 🟡 2 | **The "third space"** | Dismantle the false binary "my healing must cost the other their destruction / my self-erasure." Live examples: mother, Vuong's child, father (dog incident). |
+| ⚡ 3 | **Build the "brake"** | Distress tolerance + co-regulation so a "not now" ≠ "abandoned forever"; a container for protest/flooding. |
+| ⚡ 4 | **Parent-repair template** | Practice noticing when a romantic pull is the parent-repair template firing vs. genuine companionship. Route the wound to re-parenting. |
+| — | **Body work** | Somatic (SE/Sensorimotor) remains actively recommended — body-as-narrator breakthroughs support it. |
+
+### Session 1B — TS Grief Continued (STILL OPEN — was deferred; note Kara/Hà work paused while Abhi arc was live)
 
 **Timing:** 48+ hours after Session 1A. Client ready when Session 1A feels *clear* not *heavy*.
 
