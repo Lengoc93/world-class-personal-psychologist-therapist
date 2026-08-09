@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-09",
+  "session_type": "full_therapy_session",
+  "duration_minutes": 75,
+  "mood_metrics": {
+    "mood_rating": null,
+    "energy_level": null,
+    "sleep_quality": null,
+    "stress_level": null,
+    "note": "Session began as emotional processing (Mode 3), not a formally-opened full session — no numeric check-in conducted at open. Closing self-report: 'thấy rõ hơn... thỏa mãn vì các góc câu hỏi đã có phần nào câu trả lời' — grounded, settled, satisfied; nervous system well-contained after deep work."
+  },
+  "presenting_question": "Does it matter whether my feeling toward Abhi is genuine mutual love, or the hunger/hope to finally be truly loved by someone?",
+  "main_themes": [
+    "Disentangling genuine love for Abhi from limerence — attraction to the idealized expression of love ('electric about his loving words, like a movie scene') vs. the person himself",
+    "The core hunger named plainly: 'Will I be loved no matter how bad I am?' — unconditional love as the deprived need",
+    "Re-parenting the wounded child and grieving the mother who cannot heal the wound she created",
+    "Reclaiming body, voice, and anger from childhood abuse (force-feeding; physical abuse by three older brothers with maternal endorsement)",
+    "Fawn / reflexive self-blame ('it's my fault') reframed — fear-driven appeasement vs. freedom-driven vulnerability; the mature evolution of the childhood 'fighter'",
+    "External change vs. internal work — gap-year and relocation reframed from 'escape to prove' to 'design to build self-love'"
+  ],
+  "symptoms_identified": [
+    "Limerence / attachment to idealized expressions of love — verbal affection functioning as an emotional 'drug' that can bypass discernment",
+    "Somatic constriction — globus sensation ('chặn ở cổ họng') linked to decades of suppressed tears and unexpressed anger",
+    "Reflexive self-blame / fawn response (client dates its onset to post-25, distinct from a fiercely resistant childhood)",
+    "Hypervigilant relational monitoring — calibrating self-disclosure to the other's reaction to assess safety",
+    "Food/eating anxiety rooted in force-feeding trauma ('ăn luôn đáng sợ vì bị ép ăn')",
+    "Body-image distress / internalized shame ('cảm thấy mình xấu xí', others held as the beauty standard)",
+    "Externally-referenced worth — 'badness' defined entirely by others' disappointment rather than internal values"
+  ],
+  "clinical_observations": {
+    "emotional_state": "Entered reflective and searching, intellectually engaged. Moved through profound grief and trauma activation (childhood abuse disclosure) with strong tolerance, then landed grounded, clearer, and satisfied. Exceptional capacity for real-time self-observation, containment, and re-regulation.",
+    "cognitive_patterns": [
+      "Externalized definition of 'bad' — measured by others' recoil, not own conscience (the conditional-worth schema)",
+      "A 'purity test' applied to her own feelings — demanding love be untainted to count (echo of purity-culture wound turned inward)",
+      "Dichotomous framing (genuine love OR hunger) which she successfully integrated into 'both/and' by session end",
+      "High meta-cognitive insight — able to trace the root of a desire (pre-25 leaving = 'to prove I escaped the cage') and watch it collapse under examination"
+    ],
+    "behavioral_patterns": [
+      "Reflexive 'commit that's my fault' followed by monitoring the other's reaction before disclosing her true (boundaried) position",
+      "Emerging boundary-setting and, notably, corrected the therapist's framing in real time from a place of calm truth — a live demonstration of healthy assertion (Voice 2)",
+      "Structuring/organizing impulse (asked to sort open questions by priority) — ENFP-7 capture-and-clarify, now in service of depth"
+    ],
+    "relational_patterns": [
+      "Draw toward Abhi is primarily regulatory — every descriptor (calm, humble, trustworthy, attentive, conservatively expressive) denotes safety rather than desire for his specific person",
+      "Rescue-seeking transferred onto partner/idealized love; by session end reframed toward relating from fullness (mutual empowerment) rather than starvation",
+      "Openness to approaching mother as a possible healing step — from a position of choice, not compulsion — indicating the maternal cage no longer dictates flight"
+    ]
+  },
+  "interventions_used": [
+    "Reframed the presenting false binary into both/and (genuine love and hunger coexisting)",
+    "Psychoeducation on limerence / being 'in love with love'",
+    "IFS-informed parts work — meeting the third-grade self; adult-self re-parenting the exile",
+    "Corrective emotional experience / re-parenting — client generated a full healthy-parent response including protective limits, and witnessed the child's relief ('được cứu')",
+    "Somatic tracking and grounding after activation (hand on chest/belly, breath, body check)",
+    "Naming the four trauma responses; discernment frame for self-blame: 'sword laid down in peace (freedom) vs. surrender (fear)'",
+    "Grief work re: the mother who cannot be the source of the healing",
+    "Three diagnostic questions to separate love from hunger (words-removed test; toward-vs-away; the 'if already certainly loved' hypothetical)"
+  ],
+  "research_shared": [
+    {
+      "topic": "Trauma stored in the body",
+      "source": "van der Kolk (2014), The Body Keeps the Score",
+      "key_finding": "Traumatic memory is held somatically and in emotional/limbic memory, not resolved by rational understanding alone",
+      "application": "Explained why she can rationally accept the grief while the third-grade self 'randomly still starves'; validated the throat constriction as a real somatic memory"
+    },
+    {
+      "topic": "Limerence / idealized love",
+      "source": "Tennov (1979), Love and Limerence",
+      "key_finding": "Intense attachment can fixate on the idea/expression of being loved rather than the person, especially in the emotionally deprived",
+      "application": "Named the 'electric about the words, like a movie scene' experience; framed verbal affection as a vulnerability that can bypass discernment"
+    },
+    {
+      "topic": "Self-compassion / re-parenting",
+      "source": "Neff (self-compassion research); IFS (Schwartz) and schema therapy's 'healthy adult'",
+      "key_finding": "The durable felt sense of being loved-at-one's-worst is internalized through self-reparenting, grown via corrective relational experiences",
+      "application": "Reframed 'who can love me no matter how bad I am' — the one relationship that cannot abandon her is with herself; she then enacted it live"
+    }
+  ],
+  "homework_assigned": "Between now and next time: (1) Notice ONE moment the reflexive 'it's my fault' arises and give it a single breath to ask — 'freedom or fear?' No action required; noticing alone is half of freedom. (2) When the child-part's hunger surfaces unbidden, return to the 'window' and repeat tonight's words rather than arguing her out of it with logic: 'Chị chắn cho em. Chị tin em. Chị ở đây.'",
+  "breakthroughs": [
+    {
+      "insight": "Her feeling toward Abhi contains genuine love, not merely displaced hunger",
+      "before_state": "Feared the feeling might be only 'seeking hope to be truly loved'; if verbal affection stopped she would feel unmoored and doubt love had died",
+      "after_state": "Recognized that if she were already certain of being loved, the feeling would stay/grow (toward mutual empowerment), not vanish — the signature of real love; and that love can live in non-verbal formats she can ask about",
+      "significance": "Directly answers the presenting question and loosens the limerence grip — she can now hold love as more durable than its most seductive expression"
+    },
+    {
+      "insight": "Distinguished 'escape to prove' from 'design to build' as motives for leaving",
+      "before_state": "Pre-25 leaving followed intuition to prove 'I'm right, I'm fine, I escaped the cage' — and collapsed when the root was exposed",
+      "after_state": "This gap year is a chosen design (blank canvas, restart, decoupling work from being her only source of worth/love, learning to love herself); openness to approaching mother from choice as a healing step",
+      "significance": "Marks a shift from reactive flight to values-driven action, and evidence the maternal cage no longer compels her"
+    },
+    {
+      "insight": "Enacted re-parenting in real time and recognized herself as the rescuer",
+      "before_state": "Waited (as the third-grade self) at the 'window' for a mother/partner who would love her unconditionally",
+      "after_state": "Spoke as the good mother — protection from harm, bodily autonomy, believing the child, AND protective limits — and named the child's response as relief/being saved; saw the rescuer is her own grown self",
+      "significance": "The healthy-parent template was shown to already exist within her; concretizes re-parenting from concept to felt experience"
+    },
+    {
+      "insight": "Capstone meta-realization about the pain-relief strategy itself",
+      "before_state": "Lifelong pattern: relieve inner pain by changing external conditions, then get lost in the obsession with changing",
+      "after_state": "'May ghê vì mình đã nhận ra mình cần làm gì' — recognized the inner work, not external substitution, is the path",
+      "significance": "Reorients the entire next chapter (incl. the gap year) toward internal healing rather than geographic/relational escape"
+    }
+  ],
+  "progress_indicators": [
+    "Real-time boundary assertion — corrected the therapist calmly (Voice 2 in action)",
+    "Both/and integration replacing dichotomous thinking",
+    "The childhood 'fighter' matured into discernment — fights what matters to her energy, disengages from what doesn't, and can now sit/observe rather than reflexively fight-or-flee (Type 7 → Type 5 growth direction)",
+    "Self-containment and clearer, satisfied state after deep activation",
+    "Vision of relating from fullness (mutual empowerment) rather than rescue"
+  ],
+  "concerns_flagged": [
+    "Food/eating anxiety with force-feeding roots warrants dedicated attention in a future session (not acute)",
+    "Intermittent resurgence of the child-part's hunger is expected and is NOT regression — flag only so it is not misread as backsliding"
+  ],
+  "next_session_focus": "Client's choice among: (a) dedicated work on the eating/food trauma and body reclamation; (b) concrete, values-based design of the gap year as self-discovery; (c) mapping a safe, chosen approach to the mother as a healing step; (d) continued practice converting the fawn reflex into freedom-vs-fear discernment.",
+  "therapist_notes": "Major integration/repair session following the July 2026 'Abhi crash' arc. Client arrived with the love-vs-hunger question and, through her own reflection, arrived at the answer (genuine love present; hunger also present; task is to keep feeding the hunger internally so love stays 'clean'/from fullness). Striking clinical strengths: meta-cognition, real-time assertion, somatic tolerance, and a fully-formed healthy-parent template she can voice. Continuity with prior themes — transactional/conditional maternal love, hypervigilance, purity-culture wound (here turned inward as a purity test on her own feelings). Recommend proposing profile updates (see separate note): fawn-onset timeline, limerence pattern, and the re-parenting capacity as a validated coping resource; possible minor stage progression toward integration. No safety concerns; client landed grounded and self-directed."
+}
